@@ -11,7 +11,11 @@ Just drop the `user` folder into your `SPT` directory.
 
 ## Credits
 
-TRON for the server base code and the tutorial on how to use the Escape from Tarkov SDK. <3
+Thanks to TRON for the server base code and the tutorial on how to use the Escape from Tarkov SDK. <3
+
+## Issues
+
+The Stahlhelm M42 helmet is a little bit bugged.
 
 ## License
 

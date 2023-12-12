@@ -15,14 +15,18 @@ Alguns capacetes:
 - Stahlhelm M42
 - Capacete de papelão
 
-## Installation
+## Instalação
 
-Just drop the `user` folder into your `SPT` directory.
+Basta colocar a pasta 'user' no diretório 'SPT'.
 
-## Credits
+## Créditos
 
-TRON for the server base code and the tutorial on how to use the Escape from Tarkov SDK. <3
+TRON pelo código base do servidor e pelo tutorial sobre como usar o Escape from Tarkov SDK. <3
 
-## License
+## Problemas
 
-This mod is licensed under the [MIT License](LICENSE).
+O capacete Stahlhelm M42 está um pouco bugado.
+
+## Licença
+
+Este mod está licenciado sob a [MIT License](LICENSE).
