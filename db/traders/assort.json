@@ -1,0 +1,357 @@
+{
+	"5ac3b934156ae10c4430e83c": {
+		"items": [
+      {
+        "_id": "cardboardhelmet",
+        "_tpl": "cardboardhelmet",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": false,
+          "StackObjectsCount": 999
+        }
+      },
+			{
+				"_id": "germanhelmet",
+				"_tpl": "germanhelmet",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": false,
+					"StackObjectsCount": 999
+				}
+			}
+    ],
+    "barter_scheme": {
+      "cardboardhelmet": [
+        [
+          {
+            "count": 3456,
+            "_tpl": "5449016a4bdc2d6f028b456f"
+          }
+        ]
+      ],
+			"germanhelmet": [
+				[
+					{
+						"count": 22348,
+						"_tpl": "5449016a4bdc2d6f028b456f"
+					}
+				]
+			]
+    },
+    "loyal_level_items": {
+      "cardboardhelmet": 1,
+			"germanhelmet": 1
+    }
+	},
+
+  "5c0647fdd443bc2504c2d371": {
+    "items": [
+      {
+        "_id": "bucket",
+        "_tpl": "bucket",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": false,
+          "StackObjectsCount": 999
+        }
+      }
+    ],
+    "barter_scheme": {
+      "bucket": [
+        [
+          {
+            "count": 28956,
+            "_tpl": "5449016a4bdc2d6f028b456f"
+          }
+        ]
+      ]
+    },
+    "loyal_level_items": {
+      "bucket": 2
+    }
+  },
+  "5a7c2eca46aef81a7ca2145d": {
+    "items": [
+      {
+        "_id": "glock21",
+        "_tpl": "glock21",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": false,
+          "StackObjectsCount": 999
+        }
+      },
+      {
+        "_id": "reciever_glock_zev_tech_spartan_rmr_cut_gen_3_45acp",
+        "_tpl": "reciever_glock_zev_tech_spartan_rmr_cut_gen_3_45acp",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": false,
+          "StackObjectsCount": 999
+        }
+      },
+      {
+        "_id": "reciever_glock_zev_tech_hex_rmr_cut_gen_3_45acp",
+        "_tpl": "reciever_glock_zev_tech_hex_rmr_cut_gen_3_45acp",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": false,
+          "StackObjectsCount": 999
+        }
+      },
+      {
+        "_id": "reciever_glock_polymer80_ps9_45acp",
+        "_tpl": "reciever_glock_polymer80_ps9_45acp",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": false,
+          "StackObjectsCount": 999
+        }
+      },
+      {
+        "_id": "reciever_glock_lone_wolf_alphawolf_45acp",
+        "_tpl": "reciever_glock_lone_wolf_alphawolf_45acp",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": false,
+          "StackObjectsCount": 999
+        }
+      },
+      {
+        "_id": "reciever_glock_gspc_viper_slide_cut_45acp",
+        "_tpl": "reciever_glock_gspc_viper_slide_cut_45acp",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": false,
+          "StackObjectsCount": 999
+        }
+      },
+      {
+        "_id": "reciever_glock_gspc_moto_slide_cut_45acp",
+        "_tpl": "reciever_glock_gspc_moto_slide_cut_45acp",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": false,
+          "StackObjectsCount": 999
+        }
+      },
+      {
+        "_id": "reciever_glock_glock_21_std",
+        "_tpl": "reciever_glock_glock_21_std",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": false,
+          "StackObjectsCount": 999,
+          "SpawnedInSession": false
+        }
+      },
+      {
+        "_id": "reciever_glock_glock_21_mos_slide",
+        "_tpl": "reciever_glock_glock_21_mos_slide",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": true,
+          "StackObjectsCount": 999,
+          "SpawnedInSession": false
+        }
+      },
+      {
+        "_id": "barrel_glock_std_45acp",
+        "_tpl": "barrel_glock_std_45acp",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": true,
+          "StackObjectsCount": 999,
+          "SpawnedInSession": false
+        }
+      },
+      {
+        "_id": "barrel_glock_salient_arms_114mm_threaded_45acp",
+        "_tpl": "barrel_glock_salient_arms_114mm_threaded_45acp",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": true,
+          "StackObjectsCount": 999,
+          "SpawnedInSession": false
+        }
+      },
+      {
+        "_id": "barrel_glock_glock_114mm_45acp_compensated",
+        "_tpl": "barrel_glock_glock_114mm_45acp_compensated",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": true,
+          "StackObjectsCount": 999,
+          "SpawnedInSession": false
+        }
+      },
+      {
+        "_id": "barrel_glock_double_diamond_114mm_threaded_45acp",
+        "_tpl": "barrel_glock_double_diamond_114mm_threaded_45acp",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": true,
+          "StackObjectsCount": 999,
+          "SpawnedInSession": false
+        }
+      },
+      {
+        "_id": "barrel_glock_alpha_wolf_114mm_threaded_45acp",
+        "_tpl": "barrel_glock_alpha_wolf_114mm_threaded_45acp",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": true,
+          "StackObjectsCount": 999,
+          "SpawnedInSession": false
+        }
+      }
+    ],
+    "barter_scheme": {
+      "reciever_glock_zev_tech_spartan_rmr_cut_gen_3_45acp": [
+        [
+          {
+            "count": 15000,
+            "_tpl": "5449016a4bdc2d6f028b456f"
+          }
+        ]
+      ],
+      "reciever_glock_zev_tech_hex_rmr_cut_gen_3_45acp": [
+        [
+          {
+            "count": 15000,
+            "_tpl": "5449016a4bdc2d6f028b456f"
+          }
+        ]
+      ],
+      "reciever_glock_polymer80_ps9_45acp": [
+        [
+          {
+            "count": 12000,
+            "_tpl": "5449016a4bdc2d6f028b456f"
+          }
+        ]
+      ],
+      "reciever_glock_lone_wolf_alphawolf_45acp": [
+        [
+          {
+            "count": 13000,
+            "_tpl": "5449016a4bdc2d6f028b456f"
+          }
+        ]
+      ],
+      "reciever_glock_gspc_viper_slide_cut_45acp": [
+        [
+          {
+            "count": 12000,
+            "_tpl": "5449016a4bdc2d6f028b456f"
+          }
+        ]
+      ],
+      "reciever_glock_gspc_moto_slide_cut_45acp": [
+        [
+          {
+            "count": 12000,
+            "_tpl": "5449016a4bdc2d6f028b456f"
+          }
+        ]
+      ],
+      "reciever_glock_glock_21_std": [
+        [
+          {
+            "count": 8000,
+            "_tpl": "5449016a4bdc2d6f028b456f"
+          }
+        ]
+      ],
+      "reciever_glock_glock_21_mos_slide": [
+        [
+          {
+            "count": 10000,
+            "_tpl": "5449016a4bdc2d6f028b456f"
+          }
+        ]
+      ],
+      "barrel_glock_std_45acp": [
+        [
+          {
+            "count": 8541,
+            "_tpl": "5449016a4bdc2d6f028b456f"
+          }
+        ]
+      ],
+      "barrel_glock_salient_arms_114mm_threaded_45acp": [
+        [
+          {
+            "count": 15698,
+            "_tpl": "5449016a4bdc2d6f028b456f"
+          }
+        ]
+      ],
+      "barrel_glock_glock_114mm_45acp_compensated": [
+        [
+          {
+            "count": 9856,
+            "_tpl": "5449016a4bdc2d6f028b456f"
+          }
+        ]
+      ],
+      "barrel_glock_double_diamond_114mm_threaded_45acp": [
+        [
+          {
+            "count": 12365,
+            "_tpl": "5449016a4bdc2d6f028b456f"
+          }
+        ]
+      ],
+      "barrel_glock_alpha_wolf_114mm_threaded_45acp": [
+        [
+          {
+            "count": 12365,
+            "_tpl": "5449016a4bdc2d6f028b456f"
+          }
+        ]
+      ],
+      "glock21": [
+        [
+          {
+            "count": 19563,
+            "_tpl": "5449016a4bdc2d6f028b456f"
+          }
+        ]
+      ]
+    },
+    "loyal_level_items": {
+      "reciever_glock_zev_tech_spartan_rmr_cut_gen_3_45acp": 2,
+      "reciever_glock_zev_tech_hex_rmr_cut_gen_3_45acp": 2,
+      "reciever_glock_polymer80_ps9_45acp": 2,
+      "reciever_glock_lone_wolf_alphawolf_45acp": 2,
+      "reciever_glock_gspc_viper_slide_cut_45acp": 2,
+      "reciever_glock_gspc_moto_slide_cut_45acp": 2,
+      "reciever_glock_glock_21_std": 1,
+      "reciever_glock_glock_21_mos_slide": 1,
+      "barrel_glock_std_45acp": 1,
+      "barrel_glock_salient_arms_114mm_threaded_45acp": 2,
+      "barrel_glock_glock_114mm_45acp_compensated": 2,
+      "barrel_glock_double_diamond_114mm_threaded_45acp": 2,
+      "barrel_glock_alpha_wolf_114mm_threaded_45acp": 2,
+      "glock21": 1
+    }
+  }
+}

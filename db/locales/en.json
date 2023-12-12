@@ -1,0 +1,64 @@
+{
+	"templates": {
+		"bucket": {
+			"Name": "Rusty Bucket",
+			"ShortName": "Bucket",
+			"Description": "This helmet is so rusty, it's practically a colander. But don't worry, it's still perfectly good at stopping bullets. Well, most bullets. At least some of the time. Forged from the finest 10mm thick steel by an unknown scav"
+		},
+		"cardboardhelmet": {
+			"Name": "Cardboard Helmet",
+			"ShortName": "Cardboard Helmet",
+			"Description": "This trusty, but definitely not certified, cardboard helmet offers about as much protection as a wet napkin against a bullet. However, it's surprisingly stylish and sure to turn heads (and maybe get you shot). Perfect for the budget-conscious PMC. Disclaimer: This helmet does not guarantee your survival against any form of weaponry. Use at your own risk (and amusement)."
+		},
+		"germanhelmet": {
+			"Name": "Stahlhelm M42 helmet",
+			"ShortName": "M42 Helmet",
+			"Description": "This authentic Stahlhelm M42 helmet offers vintage protection with modern-day coolness. Originally used by the Wehrmacht, this helmet is now a favorite among collectors and historical reenactors."
+		},
+		"glock21": {
+			"Name": "Glock 21 .45ACP pistol",
+			"ShortName": "Glock 21",
+			"Description": "Glock 21 is an Austrian pistol designed by Glock company. Thanks to both its impressive combat characteristics and reliablity it gained wide recognition and popularity as a police, shooting sports and civilian self-defense weapon."
+		},
+		"reciever_glock_glock_21_mos_slide": {
+			"Name": "Glock 21 MOS slide",
+			"ShortName": "Glock 21 MOS slide",
+			"Description": "The MOS (Modular Optic System) slide designed for Glock .45 ACP pistols. Manufactured by Glock."
+		},
+		"reciever_glock_glock_21_std": {
+			"Name": "Glock 21 slide",
+			"ShortName": "Glock 21 slide",
+			"Description": "The standard slide for Glock 21 .45 ACP pistol. Manufactured by Glock."
+		},
+		"reciever_glock_gspc_moto_slide_cut_45acp": {
+			"Name": "Glock .45 ACP Moto Cut pistol slide",
+			"ShortName": "Glock Moto Cut slide",
+			"Description": "A lightweight slide for Glock .45 ACP pistols."
+		},
+		"reciever_glock_gspc_viper_slide_cut_45acp": {
+			"Name": "Glock .45 ACP Viper Cut pistol slide",
+			"ShortName": "Glock Viper Cut slide",
+			"Description": "A lightweight slide for Glock .45 ACP pistols."
+		},
+		"reciever_glock_lone_wolf_alphawolf_45acp": {
+			"Name": "Glock Lone Wolf AlphaWolf pistol slide for Glock 21",
+			"ShortName": "Glock Lone Wolf slide",
+			"Description": "A slide for Glock pistols family, manufactured by Lone Wolf."
+		},
+		"reciever_glock_polymer80_ps9_45acp": {
+			"Name": "Polymer80 PS9 Glock slide",
+			"ShortName": "Polymer80 PS9 slide",
+			"Description": "A slide for Glock pistols family, manufactured by Polymer80."
+		},
+		"reciever_glock_zev_tech_hex_rmr_cut_gen_3_45acp": {
+			"Name": "Glock ZEV Tech HEX Gen3 RMR pistol slide",
+			"ShortName": "Glock ZEV HEX Tech slide",
+			"Description": "A slide for Glock pistols family, manufactured by ZEV Technologies. Includes a mount for installation of the RMR reflex sights lineup."
+		},
+		"reciever_glock_zev_tech_spartan_rmr_cut_gen_3_45acp": {
+			"Name": "Glock ZEV Tech Spartan Gen3 RMR pistol slide",
+			"ShortName": "Glock ZEV Spartan Tech slide",
+			"Description": "A slide for Glock pistols family, manufactured by ZEV Technologies. Includes a mount for installation of the RMR reflex sights lineup."
+		}
+	}
+}

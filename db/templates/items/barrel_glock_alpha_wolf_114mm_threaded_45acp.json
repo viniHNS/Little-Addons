@@ -1,0 +1,112 @@
+{
+  "_id": "barrel_glock_alpha_wolf_114mm_threaded_45acp",
+  "_name": "barrel_glock_alpha_wolf_114mm_threaded_45acp",
+  "_price": 10000,
+  "_loyal": 2,
+  "_parent": "555ef6e44bdc2de9068b457e",
+  "_props": {
+    "Accuracy": 0,
+    "AnimationVariantsNumber": 0,
+    "BackgroundColor": "blue",
+    "BlocksCollapsible": false,
+    "BlocksFolding": false,
+    "CanPutIntoDuringTheRaid": true,
+    "CanRequireOnRagfair": false,
+    "CanSellOnRagfair": true,
+    "CantRemoveFromSlotsDuringRaid": [],
+    "CenterOfImpact": 0.3,
+    "ConflictingItems": [],
+    "CoolFactor": 1.21,
+    "Description": "barrel_glock_alpha_wolf_114mm_threaded_45acp",
+    "DeviationCurve": 2.25,
+    "DeviationMax": 11,
+    "DiscardLimit": -1,
+    "DiscardingBlock": false,
+    "DoubleActionAccuracyPenaltyMult": 1,
+    "DropSoundType": "None",
+    "Durability": 100,
+    "DurabilityBurnModificator": 0.8,
+    "EffectiveDistance": 0,
+    "Ergonomics": -4,
+    "ExamineExperience": 6,
+    "ExamineTime": 1,
+    "ExaminedByDefault": true,
+    "ExtraSizeDown": 0,
+    "ExtraSizeForceAdd": false,
+    "ExtraSizeLeft": 0,
+    "ExtraSizeRight": 0,
+    "ExtraSizeUp": 0,
+    "Grids": [],
+    "HasShoulderContact": false,
+    "HeatFactor": 1.14,
+    "Height": 1,
+    "HideEntrails": false,
+    "InsuranceDisabled": false,
+    "IsAlwaysAvailableForInsurance": false,
+    "IsAnimated": false,
+    "IsLockedafterEquip": false,
+    "IsSilencer": false,
+    "IsSpecialSlotOnly": false,
+    "IsUnbuyable": false,
+    "IsUndiscardable": false,
+    "IsUngivable": false,
+    "IsUnremovable": false,
+    "IsUnsaleable": false,
+    "ItemSound": "mod",
+    "LootExperience": 5,
+    "Loudness": 0,
+    "MergesWithChildren": true,
+    "Name": "barrel_glock_alpha_wolf_114mm_threaded_45acp",
+    "NotShownInSlot": false,
+    "Prefab": {
+      "path": "assets/content/items/mods/barrels/barrel_glock_alpha_wolf_114mm_threaded_9x19.bundle",
+      "rcid": ""
+    },
+    "QuestItem": false,
+    "QuestStashMaxCount": 0,
+    "RagFairCommissionModifier": 1,
+    "RaidModdable": true,
+    "Recoil": -4,
+    "RepairCost": 0,
+    "RepairSpeed": 0,
+    "ShortName": "barrel_glock_alpha_wolf_114mm_threaded_45acp",
+    "ShotgunDispersion": 1,
+    "SightingRange": 0,
+    "Slots": [
+      {
+        "_id": "alpha_wolf_114mm_threaded_45acp_muzzle",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_muzzle",
+        "_parent": "barrel_glock_alpha_wolf_114mm_threaded_45acp",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5fc4b97bab884124df0cd5e3"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "alpha_wolf_114mm_threaded_45acp_muzzle_proto",
+        "_required": false
+      }
+    ],
+    "StackMaxSize": 1,
+    "StackObjectsCount": 1,
+    "ToolModdable": false,
+    "UniqueAnimationModID": 0,
+    "Unlootable": false,
+    "UnlootableFromSide": [],
+    "UnlootableFromSlot": "FirstPrimaryWeapon",
+    "UsePrefab": {
+      "path": "",
+      "rcid": ""
+    },
+    "Velocity": -2.28,
+    "Weight": 0.24,
+    "Width": 1
+  },
+  "_proto": "barrel_glock_alpha_wolf_114mm_threaded_45acp_proto",
+  "_type": "Item"
+}
