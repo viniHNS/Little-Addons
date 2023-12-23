@@ -59,6 +59,31 @@
 			"Name": "Glock ZEV Tech Spartan Gen3 RMR pistol slide",
 			"ShortName": "Glock ZEV Spartan Tech slide",
 			"Description": "A slide for Glock pistols family, manufactured by ZEV Technologies. Includes a mount for installation of the RMR reflex sights lineup."
+		},
+		"barrel_glock_alpha_wolf_114mm_threaded_45acp": {
+			"Name": "Glock Lone Wolf AlphaWolf Threaded Barrel for Glock 21",
+			"ShortName": "Threaded Barrel AW",
+			"Description": "A threaded barrel for .45 ACP pistols of the Glock family. Manufactured by Lone Wolf."
+		},
+		"barrel_glock_double_diamond_114mm_threaded_45acp": {
+			"Name": "Glock .45 ACP Double Diamond threaded barrel",
+			"ShortName": "G DD thr.",
+			"Description": "A threaded barrel for .45 ACP pistols of Glock family. Manufactured by Double Diamond."
+		},
+		"barrel_glock_glock_114mm_45acp_compensated": {
+			"Name": "Glock .45 ACP Compensated barrel",
+			"ShortName": "G Comp. barrel",
+			"Description": "A compensated barrel for .45 ACP pistols of Glock family. Manufactured by Glock."
+		},
+		"barrel_glock_salient_arms_114mm_threaded_45acp": {
+			"Name": "Glock .45 ACP Salient Arms Threaded barrel",
+			"ShortName": "Threaded barrel SA",
+			"Description": "A threaded barrel for .45 ACP pistols of Glock family. Manufactured by Salient Arms."
+		},
+		"barrel_glock_std_45acp": {
+			"Name": "Glock .45 ACP Standard barrel",
+			"ShortName": "G Std. barrel",
+			"Description": "A standard barrel for .45 ACP pistols of Glock family. Manufactured by Glock."
 		}
 	}
 }
