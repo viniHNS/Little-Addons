@@ -353,5 +353,89 @@
       "barrel_glock_alpha_wolf_114mm_threaded_45acp": 2,
       "glock21": 1
     }
+  },
+  "54cb50c76803fa8b248b4571": {
+    "items": [
+      {
+        "_id": "STs-130",
+        "_tpl": "STs-130",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": false,
+          "StackObjectsCount": 563256
+        }
+      },
+      {
+        "_id": "SUP",
+        "_tpl": "SUP",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": false,
+          "StackObjectsCount": 10652
+        }
+      },
+      {
+        "_id": "VKS",
+        "_tpl": "VKS",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": false,
+          "StackObjectsCount": 10652
+        }
+      },
+      {
+        "_id": "VMAG",
+        "_tpl": "VMAG",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": false,
+          "StackObjectsCount": 56236
+        }
+      }
+    ],
+    "barter_scheme": {
+      "STs-130": [
+        [
+          {
+            "count": 455,
+            "_tpl": "5449016a4bdc2d6f028b456f"
+          }
+        ]
+      ],
+      "SUP": [
+        [
+          {
+            "count": 21503,
+            "_tpl": "5449016a4bdc2d6f028b456f"
+          }
+        ]
+      ],
+      "VKS": [
+        [
+          {
+            "count": 93800,
+            "_tpl": "5449016a4bdc2d6f028b456f"
+          }
+        ]
+      ],
+      "VMAG": [
+        [
+          {
+            "count": 6600,
+            "_tpl": "5449016a4bdc2d6f028b456f"
+          }
+        ]
+      ]
+    },
+    "loyal_level_items": {
+      "STs-130": 3,
+      "SUP": 3,
+      "VKS": 3,
+      "VMAG": 3
+    }
   }
 }

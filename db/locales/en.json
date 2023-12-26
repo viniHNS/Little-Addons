@@ -1,89 +1,109 @@
 {
-	"templates": {
-		"bucket": {
-			"Name": "Rusty Bucket",
-			"ShortName": "Bucket",
-			"Description": "This helmet is so rusty, it's practically a colander. But don't worry, it's still perfectly good at stopping bullets. Well, most bullets. At least some of the time. Forged from the finest 10mm thick steel by an unknown scav"
-		},
-		"cardboardhelmet": {
-			"Name": "Cardboard Helmet",
-			"ShortName": "Cardboard Helmet",
-			"Description": "This trusty, but definitely not certified, cardboard helmet offers about as much protection as a wet napkin against a bullet. However, it's surprisingly stylish and sure to turn heads (and maybe get you shot). Perfect for the budget-conscious PMC. Disclaimer: This helmet does not guarantee your survival against any form of weaponry. Use at your own risk (and amusement)."
-		},
-		"germanhelmet": {
-			"Name": "Stahlhelm M42 helmet",
-			"ShortName": "M42 Helmet",
-			"Description": "This authentic Stahlhelm M42 helmet offers vintage protection with modern-day coolness. Originally used by the Wehrmacht, this helmet is now a favorite among collectors and historical reenactors."
-		},
-		"glock21": {
-			"Name": "Glock 21 .45ACP pistol",
-			"ShortName": "Glock 21",
-			"Description": "Glock 21 is an Austrian pistol designed by Glock company. Thanks to both its impressive combat characteristics and reliablity it gained wide recognition and popularity as a police, shooting sports and civilian self-defense weapon."
-		},
-		"reciever_glock_glock_21_mos_slide": {
-			"Name": "Glock 21 MOS slide",
-			"ShortName": "Glock 21 MOS slide",
-			"Description": "The MOS (Modular Optic System) slide designed for Glock .45 ACP pistols. Manufactured by Glock."
-		},
-		"reciever_glock_glock_21_std": {
-			"Name": "Glock 21 slide",
-			"ShortName": "Glock 21 slide",
-			"Description": "The standard slide for Glock 21 .45 ACP pistol. Manufactured by Glock."
-		},
-		"reciever_glock_gspc_moto_slide_cut_45acp": {
-			"Name": "Glock .45 ACP Moto Cut pistol slide",
-			"ShortName": "Glock Moto Cut slide",
-			"Description": "A lightweight slide for Glock .45 ACP pistols."
-		},
-		"reciever_glock_gspc_viper_slide_cut_45acp": {
-			"Name": "Glock .45 ACP Viper Cut pistol slide",
-			"ShortName": "Glock Viper Cut slide",
-			"Description": "A lightweight slide for Glock .45 ACP pistols."
-		},
-		"reciever_glock_lone_wolf_alphawolf_45acp": {
-			"Name": "Glock Lone Wolf AlphaWolf pistol slide for Glock 21",
-			"ShortName": "Glock Lone Wolf slide",
-			"Description": "A slide for Glock pistols family, manufactured by Lone Wolf."
-		},
-		"reciever_glock_polymer80_ps9_45acp": {
-			"Name": "Polymer80 PS9 Glock slide",
-			"ShortName": "Polymer80 PS9 slide",
-			"Description": "A slide for Glock pistols family, manufactured by Polymer80."
-		},
-		"reciever_glock_zev_tech_hex_rmr_cut_gen_3_45acp": {
-			"Name": "Glock ZEV Tech HEX Gen3 RMR pistol slide",
-			"ShortName": "Glock ZEV HEX Tech slide",
-			"Description": "A slide for Glock pistols family, manufactured by ZEV Technologies. Includes a mount for installation of the RMR reflex sights lineup."
-		},
-		"reciever_glock_zev_tech_spartan_rmr_cut_gen_3_45acp": {
-			"Name": "Glock ZEV Tech Spartan Gen3 RMR pistol slide",
-			"ShortName": "Glock ZEV Spartan Tech slide",
-			"Description": "A slide for Glock pistols family, manufactured by ZEV Technologies. Includes a mount for installation of the RMR reflex sights lineup."
-		},
-		"barrel_glock_alpha_wolf_114mm_threaded_45acp": {
-			"Name": "Glock Lone Wolf AlphaWolf Threaded Barrel for Glock 21",
-			"ShortName": "Threaded Barrel AW",
-			"Description": "A threaded barrel for .45 ACP pistols of the Glock family. Manufactured by Lone Wolf."
-		},
-		"barrel_glock_double_diamond_114mm_threaded_45acp": {
-			"Name": "Glock .45 ACP Double Diamond threaded barrel",
-			"ShortName": "G DD thr.",
-			"Description": "A threaded barrel for .45 ACP pistols of Glock family. Manufactured by Double Diamond."
-		},
-		"barrel_glock_glock_114mm_45acp_compensated": {
-			"Name": "Glock .45 ACP Compensated barrel",
-			"ShortName": "G Comp. barrel",
-			"Description": "A compensated barrel for .45 ACP pistols of Glock family. Manufactured by Glock."
-		},
-		"barrel_glock_salient_arms_114mm_threaded_45acp": {
-			"Name": "Glock .45 ACP Salient Arms Threaded barrel",
-			"ShortName": "Threaded barrel SA",
-			"Description": "A threaded barrel for .45 ACP pistols of Glock family. Manufactured by Salient Arms."
-		},
-		"barrel_glock_std_45acp": {
-			"Name": "Glock .45 ACP Standard barrel",
-			"ShortName": "G Std. barrel",
-			"Description": "A standard barrel for .45 ACP pistols of Glock family. Manufactured by Glock."
-		}
-	}
+  "templates": {
+    "bucket": {
+      "Name": "Rusty Bucket",
+      "ShortName": "Bucket",
+      "Description": "This helmet is so rusty, it's practically a colander. But don't worry, it's still perfectly good at stopping bullets. Well, most bullets. At least some of the time. Forged from the finest 10mm thick steel by an unknown scav"
+    },
+    "cardboardhelmet": {
+      "Name": "Cardboard Helmet",
+      "ShortName": "Cardboard Helmet",
+      "Description": "This trusty, but definitely not certified, cardboard helmet offers about as much protection as a wet napkin against a bullet. However, it's surprisingly stylish and sure to turn heads (and maybe get you shot). Perfect for the budget-conscious PMC. Disclaimer: This helmet does not guarantee your survival against any form of weaponry. Use at your own risk (and amusement)."
+    },
+    "germanhelmet": {
+      "Name": "Stahlhelm M42 helmet",
+      "ShortName": "M42 Helmet",
+      "Description": "This authentic Stahlhelm M42 helmet offers vintage protection with modern-day coolness. Originally used by the Wehrmacht, this helmet is now a favorite among collectors and historical reenactors."
+    },
+    "glock21": {
+      "Name": "Glock 21 .45ACP pistol",
+      "ShortName": "Glock 21",
+      "Description": "Glock 21 is an Austrian pistol designed by Glock company. Thanks to both its impressive combat characteristics and reliablity it gained wide recognition and popularity as a police, shooting sports and civilian self-defense weapon."
+    },
+    "reciever_glock_glock_21_mos_slide": {
+      "Name": "Glock 21 MOS slide",
+      "ShortName": "Glock 21 MOS slide",
+      "Description": "The MOS (Modular Optic System) slide designed for Glock .45 ACP pistols. Manufactured by Glock."
+    },
+    "reciever_glock_glock_21_std": {
+      "Name": "Glock 21 slide",
+      "ShortName": "Glock 21 slide",
+      "Description": "The standard slide for Glock 21 .45 ACP pistol. Manufactured by Glock."
+    },
+    "reciever_glock_gspc_moto_slide_cut_45acp": {
+      "Name": "Glock .45 ACP Moto Cut pistol slide",
+      "ShortName": "Glock Moto Cut slide",
+      "Description": "A lightweight slide for Glock .45 ACP pistols."
+    },
+    "reciever_glock_gspc_viper_slide_cut_45acp": {
+      "Name": "Glock .45 ACP Viper Cut pistol slide",
+      "ShortName": "Glock Viper Cut slide",
+      "Description": "A lightweight slide for Glock .45 ACP pistols."
+    },
+    "reciever_glock_lone_wolf_alphawolf_45acp": {
+      "Name": "Glock Lone Wolf AlphaWolf pistol slide for Glock 21",
+      "ShortName": "Glock Lone Wolf slide",
+      "Description": "A slide for Glock pistols family, manufactured by Lone Wolf."
+    },
+    "reciever_glock_polymer80_ps9_45acp": {
+      "Name": "Polymer80 PS9 Glock slide",
+      "ShortName": "Polymer80 PS9 slide",
+      "Description": "A slide for Glock pistols family, manufactured by Polymer80."
+    },
+    "reciever_glock_zev_tech_hex_rmr_cut_gen_3_45acp": {
+      "Name": "Glock ZEV Tech HEX Gen3 RMR pistol slide",
+      "ShortName": "Glock ZEV HEX Tech slide",
+      "Description": "A slide for Glock pistols family, manufactured by ZEV Technologies. Includes a mount for installation of the RMR reflex sights lineup."
+    },
+    "reciever_glock_zev_tech_spartan_rmr_cut_gen_3_45acp": {
+      "Name": "Glock ZEV Tech Spartan Gen3 RMR pistol slide",
+      "ShortName": "Glock ZEV Spartan Tech slide",
+      "Description": "A slide for Glock pistols family, manufactured by ZEV Technologies. Includes a mount for installation of the RMR reflex sights lineup."
+    },
+    "barrel_glock_alpha_wolf_114mm_threaded_45acp": {
+      "Name": "Glock Lone Wolf AlphaWolf Threaded Barrel for Glock 21",
+      "ShortName": "Threaded Barrel AW",
+      "Description": "A threaded barrel for .45 ACP pistols of the Glock family. Manufactured by Lone Wolf."
+    },
+    "barrel_glock_double_diamond_114mm_threaded_45acp": {
+      "Name": "Glock .45 ACP Double Diamond threaded barrel",
+      "ShortName": "G DD thr.",
+      "Description": "A threaded barrel for .45 ACP pistols of Glock family. Manufactured by Double Diamond."
+    },
+    "barrel_glock_glock_114mm_45acp_compensated": {
+      "Name": "Glock .45 ACP Compensated barrel",
+      "ShortName": "G Comp. barrel",
+      "Description": "A compensated barrel for .45 ACP pistols of Glock family. Manufactured by Glock."
+    },
+    "barrel_glock_salient_arms_114mm_threaded_45acp": {
+      "Name": "Glock .45 ACP Salient Arms Threaded barrel",
+      "ShortName": "Threaded barrel SA",
+      "Description": "A threaded barrel for .45 ACP pistols of Glock family. Manufactured by Salient Arms."
+    },
+    "barrel_glock_std_45acp": {
+      "Name": "Glock .45 ACP Standard barrel",
+      "ShortName": "G Std. barrel",
+      "Description": "A standard barrel for .45 ACP pistols of Glock family. Manufactured by Glock."
+    },
+    "VKS": {
+      "Name": "VKS Vykhlop 12.7x55 Sniper Rifle",
+      "ShortName": "VKS",
+      "Description": "The 12.7×55mm VKS silenced sniper rifle is intended for special operations that require silent firing and penetration much superior to that provided by 9×39mm VSS silenced sniper rifle. Typical targets for the VKS are combatants in heavy body armor or behind cover. The weapon uses an integral suppressor."
+    },
+    "SUP": {
+      "Name": "Vykhlop Integral Supressor",
+      "ShortName": "VKS int. Supressor",
+      "Description": "Integral Supressor for VKS Vykhlop Sniper Rifle"
+    },
+    "VMAG": {
+      "Name": "5 Round Magazine for VKS Vykhlop Sniper rifle",
+      "ShortName": "VKS 5rd",
+      "Description": "5 Round Polymer Magazine for VKS Vykhlop 12.7x55 Sniper Rifle "
+    },
+    "STs-130": {
+      "Name": "STs-130 12.7x55 Sniper Cartridge",
+      "ShortName": "STs-130",
+      "Description": "The 12.7×55mm cartridge is used in some Russian firearms such as VKS bullpup sniper rifle and ShAK-12 bullpup battle rifle and RSh-12 revolver. The cartridge can carry a projectile weighing between from 108 grains and 1173 grains and is predominantly used to fire heavy subsonic loads. The high penetration VKS round can penetrate up to 16 mm (0.63 in) of steel at 200 metres (220 yd) or body armor up to GOST 5 or NIJ III at 100 metres (110 yd). The accuracy of this cartridge when loaded with precision VKS bullets is claimed to be one MOA at 100 metres (110 yd) up to the effective range limit of 600 metres (660 yd).[1] Despite being chambered in the same cartridge, the ShAK-12 would not be able to feed or chamber rounds designed for the VKS due to significant length differences in the bullet component of the cartridge and thus requires its own, shorter, loads. The ShAK-12 rounds have less range compared to the VKS with the maximum effective range of the loads reaching in between 100 and 300 metres (110 and 330 yd)"
+    }
+  }
 }
