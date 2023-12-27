@@ -80,7 +80,7 @@
 		"casingMass": 25,
 		"casingSounds": "127rifle",
 		"ProjectileCount": 1,
-		"InitialSpeed": 600,
+		"InitialSpeed": 295,
 		"PenetrationChance": 0.8,
 		"RicochetChance": 0.65,
 		"FragmentationChance": 0.3,
