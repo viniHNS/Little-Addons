@@ -3,12 +3,13 @@
 #### [EN](README.md) | [PT_BR](README_BR.md)
 ## What is this? 
 
-Este é um mod para [SPT-AKI](https://www.sp-tarkov.com "O principal objetivo do projeto é fornecer uma experiência singleplayer offline separada com progressão pronta para uso para o cliente oficial da BSG. Agora você pode jogar Escape From Tarkov enquanto espera que seus servidores voltem a ficar online, enquanto você está desconectado da internet ou se precisar fazer uma pausa dos trapaceiros.") que acrescenta a Glock 21, em comparação com a Glock 17, a 21 tem mais recuo por causa de seu calibre, 45 ACP.
+Este é um mod para [SPT-AKI](https://www.sp-tarkov.com "O principal objetivo do projeto é fornecer uma experiência singleplayer offline separada com progressão pronta para uso para o cliente oficial da BSG. Agora você pode jogar Escape From Tarkov enquanto espera que seus servidores voltem a ficar online, enquanto você está desconectado da internet ou se precisar fazer uma pausa dos trapaceiros.") que acrescenta a Glock 21, em comparação com a Glock 17, a 21 tem mais recuo por causa de seu calibre, 45 ACP e o rifle VKS.
 
 Adiciona a Glock 21 e algumas coisas, como:
 
 -Canos
 -Slides
+
 
 Alguns capacetes:
 - Balde enferrujado
