@@ -93,7 +93,7 @@
 		"ArmorDamage": 57,
 		"Caliber": "Caliber127x55",
 		"BulletDiameterMilimeters": 13.01,
-		"BulletMassGram": 1173,
+		"BulletMassGram": 76,
 		"StaminaBurnPerDamage": 0.8,
 		"ShowBullet": false,
 		"HasGrenaderComponent": false,
