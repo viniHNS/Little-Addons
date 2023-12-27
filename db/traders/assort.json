@@ -367,6 +367,16 @@
         }
       },
       {
+        "_id": "STs-130VPS",
+        "_tpl": "STs-130VPS",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": false,
+          "StackObjectsCount": 256321
+        }
+      },
+      {
         "_id": "SUP",
         "_tpl": "SUP",
         "parentId": "hideout",
@@ -406,6 +416,14 @@
           }
         ]
       ],
+      "STs-130VPS": [
+        [
+          {
+            "count": 956,
+            "_tpl": "5449016a4bdc2d6f028b456f"
+          }
+        ]
+      ],
       "SUP": [
         [
           {
@@ -433,6 +451,7 @@
     },
     "loyal_level_items": {
       "STs-130": 3,
+      "STs-130VPS": 4,
       "SUP": 3,
       "VKS": 3,
       "VMAG": 3
