@@ -103,12 +103,17 @@
     "STs-130": {
       "Name": "STs-130 12.7x55 Sniper Cartridge",
       "ShortName": "STs-130",
-      "Description": "The 12.7×55mm cartridge is used in some Russian firearms such as VKS bullpup sniper rifle and ShAK-12 bullpup battle rifle and RSh-12 revolver. The cartridge can carry a projectile weighing between from 108 grains and 1173 grains and is predominantly used to fire heavy subsonic loads. The high penetration VKS round can penetrate up to 16 mm (0.63 in) of steel at 200 metres (220 yd) or body armor up to GOST 5 or NIJ III at 100 metres (110 yd). The accuracy of this cartridge when loaded with precision VKS bullets is claimed to be one MOA at 100 metres (110 yd) up to the effective range limit of 600 metres (660 yd).[1] Despite being chambered in the same cartridge, the ShAK-12 would not be able to feed or chamber rounds designed for the VKS due to significant length differences in the bullet component of the cartridge and thus requires its own, shorter, loads. The ShAK-12 rounds have less range compared to the VKS with the maximum effective range of the loads reaching in between 100 and 300 metres (110 and 330 yd)"
+      "Description": "The 12.7×55mm cartridge is used in some Russian firearms such as VKS bullpup sniper rifle. The cartridge can carry a projectile weighing between from 108 grains and 1173 grains and is predominantly used to fire heavy subsonic loads. The high penetration VKS round can penetrate up to 16 mm (0.63 in) of steel at 200 metres (220 yd) or body armor up to GOST 5 or NIJ III at 100 metres (110 yd). The accuracy of this cartridge when loaded with precision VKS bullets is claimed to be one MOA at 100 metres (110 yd) up to the effective range limit of 600 metres (660 yd).[1] Despite being chambered in the same cartridge, the ShAK-12 would not be able to feed or chamber rounds designed for the VKS due to significant length differences in the bullet component of the cartridge and thus requires its own, shorter, loads. The ShAK-12 rounds have less range compared to the VKS with the maximum effective range of the loads reaching in between 100 and 300 metres (110 and 330 yd)"
     },
     "STs-130VPS": {
       "Name": "STs-130VPS 12.7x55 Sniper Cartridge",
       "ShortName": "STs-130VPS",
-      "Description": "The 12.7×55mm cartridge is used in some Russian firearms such as VKS bullpup sniper rifle and ShAK-12 bullpup battle rifle and RSh-12 revolver. Compared to the STs-130, the STs-130VPS (СЦ-130ВПС) has increased penetration thanks to the 76 gram bullet. A little corroded"
+      "Description": "The 12.7×55mm cartridge is used in some Russian firearms such as VKS bullpup sniper rifle. Compared to the STs-130, the STs-130VPS (СЦ-130ВПС) has increased penetration thanks to the 76 gram bullet. A little corroded and dirty"
+    },
+    "STs-130PT2": {
+      "Name": "STs-130PT2 12.7x55 Sniper Cartridge",
+      "ShortName": "STs-130PT2",
+      "Description": "The 12.7×55mm cartridge is used in some Russian firearms such as VKS bullpup sniper rifle. Compared to the STs-130, the STs-130PT2 (СЦ-130ПТ2) has increased accuracy thanks to the solid bronze bullet."
     }
 
   }
