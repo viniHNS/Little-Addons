@@ -296,7 +296,8 @@
 					"filters": [
 						{
 							"Filter": [
-								"STs-130"
+								"STs-130",
+								"STs-130VPS"
 							]
 						}
 					]
