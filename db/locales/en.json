@@ -118,8 +118,14 @@
     "50WLF": {
       "Name": ".50 Beowulf FMJ",
       "ShortName": ".50 Beowulf FMJ",
-      "Description": "The .50 Beowulf is a rifle cartridge developed by Bill Alexander of Alexander Arms for use in a modified AR-15 rifle. The cartridge utilizes a rebated rim, sized to match the rim of the 7.62×39mm and 6.5mm Grendel rounds. The round is intended to improve stopping power greatly at short- to medium-range as compared to the standard 5.56×45mm NATO round."
+      "Description": "The .50 Beowulf is a rifle cartridge developed by Bill Alexander of Alexander Arms for use in a modified AR-15 rifle. The cartridge utilizes a rebated rim, sized to match the rim of the 7.62×39mm and 6.5mm Grendel rounds."
+    },
+    "50WLF_HP": {
+      "Name": ".50 Beowulf HP",
+      "ShortName": ".50 Beowulf HP",
+      "Description": "The .50 Beowulf is a rifle cartridge developed by Bill Alexander of Alexander Arms for use in a modified AR-15 rifle. The cartridge utilizes a rebated rim, sized to match the rim of the 7.62×39mm and 6.5mm Grendel rounds. The round is intended to improve stopping power greatly at short to medium-range as compared to the standard 5.56×45mm NATO round thanks to the hollow point."
     }
 
   }
+  
 }
