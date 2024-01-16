@@ -41,6 +41,16 @@
 				"assets/commonassets/physics/physicsmaterials.bundle"
             ]
         },
+        
+        {
+            "key": "50WLF.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+				"shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+      
         {
             "key": "VKSSS.bundle",
             "dependencyKeys": [
