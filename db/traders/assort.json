@@ -75,6 +75,7 @@
   },
   "5a7c2eca46aef81a7ca2145d": {
     "items": [
+      
       {
         "_id": "glock21",
         "_tpl": "glock21",
@@ -83,6 +84,16 @@
         "upd": {
           "UnlimitedCount": false,
           "StackObjectsCount": 999
+        }
+      },
+      {
+        "_id": "50WLF",
+        "_tpl": "50WLF",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": false,
+          "StackObjectsCount": 12367
         }
       },
       {
@@ -224,10 +235,19 @@
       }
     ],
     "barter_scheme": {
+     
       "reciever_glock_zev_tech_spartan_rmr_cut_gen_3_45acp": [
         [
           {
             "count": 15000,
+            "_tpl": "5449016a4bdc2d6f028b456f"
+          }
+        ]
+      ],
+      "50WLF": [
+        [
+          {
+            "count": 654,
             "_tpl": "5449016a4bdc2d6f028b456f"
           }
         ]
@@ -351,7 +371,8 @@
       "barrel_glock_glock_114mm_45acp_compensated": 2,
       "barrel_glock_double_diamond_114mm_threaded_45acp": 2,
       "barrel_glock_alpha_wolf_114mm_threaded_45acp": 2,
-      "glock21": 1
+      "glock21": 1,
+      "50WLF": 1
     }
   },
   "54cb50c76803fa8b248b4571": {
