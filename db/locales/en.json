@@ -114,6 +114,11 @@
       "Name": "STs-130PT2 12.7x55 Sniper Cartridge",
       "ShortName": "STs-130PT2",
       "Description": "The 12.7×55mm cartridge is used in some Russian firearms such as VKS bullpup sniper rifle. Compared to the STs-130, the STs-130PT2 (СЦ-130ПТ2) has increased accuracy thanks to the solid bronze bullet."
+    },
+    "50WLF": {
+      "Name": ".50 Beowulf FMJ",
+      "ShortName": ".50 Beowulf FMJ",
+      "Description": "The .50 Beowulf is a rifle cartridge developed by Bill Alexander of Alexander Arms for use in a modified AR-15 rifle. The cartridge utilizes a rebated rim, sized to match the rim of the 7.62×39mm and 6.5mm Grendel rounds. The round is intended to improve stopping power greatly at short- to medium-range as compared to the standard 5.56×45mm NATO round."
     }
 
   }
