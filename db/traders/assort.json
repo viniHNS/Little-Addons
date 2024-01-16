@@ -97,6 +97,16 @@
         }
       },
       {
+        "_id": "50WLF_HP",
+        "_tpl": "50WLF_HP",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": false,
+          "StackObjectsCount": 15367
+        }
+      },
+      {
         "_id": "reciever_glock_zev_tech_spartan_rmr_cut_gen_3_45acp",
         "_tpl": "reciever_glock_zev_tech_spartan_rmr_cut_gen_3_45acp",
         "parentId": "hideout",
@@ -252,6 +262,14 @@
           }
         ]
       ],
+      "50WLF_HP": [
+        [
+          {
+            "count": 654,
+            "_tpl": "5449016a4bdc2d6f028b456f"
+          }
+        ]
+      ],
       "reciever_glock_zev_tech_hex_rmr_cut_gen_3_45acp": [
         [
           {
@@ -372,7 +390,8 @@
       "barrel_glock_double_diamond_114mm_threaded_45acp": 2,
       "barrel_glock_alpha_wolf_114mm_threaded_45acp": 2,
       "glock21": 1,
-      "50WLF": 1
+      "50WLF": 2,
+      "50WLF_HP": 2
     }
   },
   "54cb50c76803fa8b248b4571": {
