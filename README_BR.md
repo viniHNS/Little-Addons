@@ -14,6 +14,8 @@ Algumas Munições:
 - .50 Beowulf
   - FMJ
   - HP
+  - Hydra-Shok
+  
 - 12.7x55 (Esse calibre é usado pela VKS Vykhlop)
   - STs-130
   - STs-130VPS

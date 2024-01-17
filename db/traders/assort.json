@@ -136,6 +136,16 @@
         }
       },
       {
+        "_id": "50WLF_HYDRA",
+        "_tpl": "50WLF_HYDRA",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": false,
+          "StackObjectsCount": 785
+        }
+      },
+      {
         "_id": "reciever_glock_zev_tech_spartan_rmr_cut_gen_3_45acp",
         "_tpl": "reciever_glock_zev_tech_spartan_rmr_cut_gen_3_45acp",
         "parentId": "hideout",
@@ -327,7 +337,15 @@
       "50WLF_HP": [
         [
           {
-            "count": 654,
+            "count": 601,
+            "_tpl": "5449016a4bdc2d6f028b456f"
+          }
+        ]
+      ],
+      "50WLF_HYDRA": [
+        [
+          {
+            "count": 628,
             "_tpl": "5449016a4bdc2d6f028b456f"
           }
         ]
@@ -503,6 +521,7 @@
       "glock21": 1,
       "50WLF": 3,
       "50WLF_HP": 3,
+      "50WLF_HYDRA": 3,
       "handguard_ar15_50beowulf": 3,
       "barrel_ar15_50beowulf_18in": 3,
       "gasblock_ar15_50beowulf_mk12": 3,
