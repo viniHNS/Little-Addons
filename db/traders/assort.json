@@ -75,7 +75,6 @@
   },
   "5a7c2eca46aef81a7ca2145d": {
     "items": [
-      
       {
         "_id": "glock21",
         "_tpl": "glock21",
@@ -104,6 +103,36 @@
         "upd": {
           "UnlimitedCount": false,
           "StackObjectsCount": 15367
+        }
+      },
+      {
+        "_id": "barrel_ar15_50beowulf_18in",
+        "_tpl": "barrel_ar15_50beowulf_18in",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": false,
+          "StackObjectsCount": 785
+        }
+      },
+      {
+        "_id": "gasblock_ar15_50beowulf_mk12",
+        "_tpl": "gasblock_ar15_50beowulf_mk12",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": false,
+          "StackObjectsCount": 785
+        }
+      },
+      {
+        "_id": "colt_ar15_50beowulf",
+        "_tpl": "colt_ar15_50beowulf",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": false,
+          "StackObjectsCount": 785
         }
       },
       {
@@ -242,6 +271,39 @@
           "StackObjectsCount": 999,
           "SpawnedInSession": false
         }
+      },
+      {
+        "_id": "handguard_ar15_50beowulf",
+        "_tpl": "handguard_ar15_50beowulf",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": true,
+          "StackObjectsCount": 999,
+          "SpawnedInSession": false
+        }
+      },
+      {
+        "_id": "reciever_ar15_50beowulf",
+        "_tpl": "reciever_ar15_50beowulf",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": true,
+          "StackObjectsCount": 999,
+          "SpawnedInSession": false
+        }
+      },
+      {
+        "_id": "mag_ar15_50beowulf",
+        "_tpl": "mag_ar15_50beowulf",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": true,
+          "StackObjectsCount": 999,
+          "SpawnedInSession": false
+        }
       }
     ],
     "barter_scheme": {
@@ -266,6 +328,46 @@
         [
           {
             "count": 654,
+            "_tpl": "5449016a4bdc2d6f028b456f"
+          }
+        ]
+      ],
+      "handguard_ar15_50beowulf": [
+        [
+          {
+            "count": 54783,
+            "_tpl": "5449016a4bdc2d6f028b456f"
+          }
+        ]
+      ],
+      "barrel_ar15_50beowulf_18in": [
+        [
+          {
+            "count": 18026,
+            "_tpl": "5449016a4bdc2d6f028b456f"
+          }
+        ]
+      ],
+      "gasblock_ar15_50beowulf_mk12": [
+        [
+          {
+            "count": 6741,
+            "_tpl": "5449016a4bdc2d6f028b456f"
+          }
+        ]
+      ],
+      "colt_ar15_50beowulf": [
+        [
+          {
+            "count": 6741,
+            "_tpl": "5449016a4bdc2d6f028b456f"
+          }
+        ]
+      ],
+      "mag_ar15_50beowulf": [
+        [
+          {
+            "count": 2399,
             "_tpl": "5449016a4bdc2d6f028b456f"
           }
         ]
@@ -373,8 +475,17 @@
             "_tpl": "5449016a4bdc2d6f028b456f"
           }
         ]
+      ],
+      "reciever_ar15_50beowulf": [
+        [
+          {
+            "count": 39987,
+            "_tpl": "5449016a4bdc2d6f028b456f"
+          }
+        ]
       ]
     },
+    
     "loyal_level_items": {
       "reciever_glock_zev_tech_spartan_rmr_cut_gen_3_45acp": 2,
       "reciever_glock_zev_tech_hex_rmr_cut_gen_3_45acp": 2,
@@ -390,8 +501,14 @@
       "barrel_glock_double_diamond_114mm_threaded_45acp": 2,
       "barrel_glock_alpha_wolf_114mm_threaded_45acp": 2,
       "glock21": 1,
-      "50WLF": 2,
-      "50WLF_HP": 2
+      "50WLF": 3,
+      "50WLF_HP": 3,
+      "handguard_ar15_50beowulf": 3,
+      "barrel_ar15_50beowulf_18in": 3,
+      "gasblock_ar15_50beowulf_mk12": 3,
+      "reciever_ar15_50beowulf": 3,
+      "colt_ar15_50beowulf": 3,
+      "mag_ar15_50beowulf": 3
     }
   },
   "54cb50c76803fa8b248b4571": {
