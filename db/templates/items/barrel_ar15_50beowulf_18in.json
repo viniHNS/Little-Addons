@@ -1,0 +1,136 @@
+{
+  "_id": "barrel_ar15_50beowulf_18in",
+  "_name": "barrel_ar15_457mm",
+  "_parent": "555ef6e44bdc2de9068b457e",
+  "_props": {
+    "Accuracy": 0,
+    "AnimationVariantsNumber": 0,
+    "BackgroundColor": "blue",
+    "BlocksCollapsible": false,
+    "BlocksFolding": false,
+    "CanPutIntoDuringTheRaid": true,
+    "CanRequireOnRagfair": false,
+    "CanSellOnRagfair": true,
+    "CantRemoveFromSlotsDuringRaid": [],
+    "CenterOfImpact": 0.041,
+    "ConflictingItems": [
+      "5c0e2f5cd174af02a012cfc9",
+      "5ae30db85acfc408fb139a05",
+      "55d459824bdc2d892f8b4573",
+      "5c78f2792e221600106f4683",
+      "5c78f26f2e221601da3581d1",
+      "5d00e0cbd7ad1a6c6566a42d",
+      "5d00f63bd7ad1a59283b1c1e"
+    ],
+    "CoolFactor": 0.96,
+    "Description": "barrel_ar15_457mm",
+    "DeviationCurve": 1.35,
+    "DeviationMax": 23,
+    "DiscardLimit": -1,
+    "DiscardingBlock": false,
+    "DoubleActionAccuracyPenaltyMult": 1,
+    "DropSoundType": "None",
+    "Durability": 100,
+    "DurabilityBurnModificator": 1,
+    "EffectiveDistance": 0,
+    "Ergonomics": -22,
+    "ExamineExperience": 6,
+    "ExamineTime": 1,
+    "ExaminedByDefault": true,
+    "ExtraSizeDown": 0,
+    "ExtraSizeForceAdd": false,
+    "ExtraSizeLeft": 3,
+    "ExtraSizeRight": 0,
+    "ExtraSizeUp": 0,
+    "Grids": [],
+    "HasShoulderContact": false,
+    "HeatFactor": 0.96,
+    "Height": 1,
+    "HideEntrails": false,
+    "InsuranceDisabled": false,
+    "IsAlwaysAvailableForInsurance": false,
+    "IsAnimated": false,
+    "IsLockedafterEquip": false,
+    "IsSilencer": false,
+    "IsSpecialSlotOnly": false,
+    "IsUnbuyable": false,
+    "IsUndiscardable": false,
+    "IsUngivable": false,
+    "IsUnremovable": false,
+    "IsUnsaleable": false,
+    "ItemSound": "mod",
+    "LootExperience": 15,
+    "Loudness": 0,
+    "MergesWithChildren": true,
+    "Name": "barrel_ar15_457mm",
+    "NotShownInSlot": false,
+    "Prefab": {
+      "path": "assets/content/items/mods/barrels/barrel_ar15_457mm.bundle",
+      "rcid": ""
+    },
+    "QuestItem": false,
+    "QuestStashMaxCount": 0,
+    "RagFairCommissionModifier": 1,
+    "RaidModdable": false,
+    "Recoil": -5,
+    "RepairCost": 0,
+    "RepairSpeed": 0,
+    "ShortName": "barrel_ar15_457mm",
+    "ShotgunDispersion": 1,
+    "SightingRange": 0,
+    "Slots": [
+      {
+        "_id": "5d440b93a4b9364276578d4d",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_muzzle",
+        "_parent": "5d440b93a4b9364276578d4b",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "5cf6935bd7f00c06585fb791"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": false
+      },
+      {
+        "_id": "5d440b93a4b9364276578d4e",
+        "_mergeSlotWithChildren": false,
+        "_name": "mod_gas_block",
+        "_parent": "5d440b93a4b9364276578d4b",
+        "_props": {
+          "filters": [
+            {
+              "Filter": [
+                "gasblock_ar15_50beowulf_mk12"
+              ],
+              "Shift": 0
+            }
+          ]
+        },
+        "_proto": "55d30c4c4bdc2db4468b457e",
+        "_required": true
+      }
+    ],
+    "StackMaxSize": 1,
+    "StackObjectsCount": 1,
+    "ToolModdable": true,
+    "UniqueAnimationModID": 0,
+    "Unlootable": false,
+    "UnlootableFromSide": [],
+    "UnlootableFromSlot": "FirstPrimaryWeapon",
+    "UsePrefab": {
+      "path": "",
+      "rcid": ""
+    },
+    "Velocity": -4.2,
+    "Weight": 0.78,
+    "Width": 3
+  },
+  "_proto": "55d3632e4bdc2d972f8b4569",
+  "_type": "Item"
+}
