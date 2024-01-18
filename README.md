@@ -9,6 +9,7 @@ Some Weapons:
 - Glock 21
 - VKS Vykhlop
 - Colt M4 in .50 Beowulf
+- MP-700
 
 Some Ammunition:
 - **.50 Beowulf**
@@ -19,7 +20,9 @@ Some Ammunition:
   - STs-130
   - STs-130VPS
   - STs-130PT2
-
+- **.700 Nitro Express**
+  - FMJ
+  
 Some Helmets:
 - Rusty Bucket
 - Stahlhelm M42

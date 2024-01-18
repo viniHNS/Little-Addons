@@ -9,6 +9,7 @@ Algumas Armas:
 - Glock 21
 - VKS Vykhlop
 - Colt M4 em .50 Beowulf
+- MP-700
 
 Algumas Munições:
 - .50 Beowulf
@@ -20,6 +21,9 @@ Algumas Munições:
   - STs-130
   - STs-130VPS
   - STs-130PT2
+
+- .700 Nitro Express
+  - FMJ
 
 Alguns capacetes:
 - Balde enferrujado
