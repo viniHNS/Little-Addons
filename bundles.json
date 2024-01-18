@@ -66,6 +66,14 @@
             ]
         },
         {
+            "key": "700NITRO_FMJ.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+				"shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
             "key": "VKSSS.bundle",
             "dependencyKeys": [
                 "cubemaps",

@@ -57,6 +57,58 @@
           "UnlimitedCount": false,
           "StackObjectsCount": 999
         }
+      },
+      {
+        "_id": "700NITRO_FMJ",
+        "_tpl": "700NITRO_FMJ",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": false,
+          "StackObjectsCount": 5234
+        }
+      },
+      {
+        "_id": "MP700",
+        "_tpl": "MP700",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": false,
+          "StackObjectsCount": 379
+        }
+      },
+      {
+        "_id": "barrel_MP700",
+        "_tpl": "barrel_MP700",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": false,
+          "StackObjectsCount": 297
+        }
+      },
+      {
+        "_id": "MP700_WEAPON",
+        "_tpl": "MP700",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "StackObjectsCount": 3,
+          "UnlimitedCount": false
+        }
+      },
+      {
+        "_id": "403b0eb532c6b0ba31212e9d",
+        "_tpl": "611a31ce5b7ffe001b4649d1",
+        "parentId": "MP700_WEAPON",
+        "slotId": "mod_stock"
+      },
+      {
+        "_id": "493238e79e71fee208159540",
+        "_tpl": "barrel_MP700",
+        "parentId": "MP700_WEAPON",
+        "slotId": "mod_barrel"
       }
     ],
     "barter_scheme": {
@@ -67,10 +119,46 @@
             "_tpl": "5449016a4bdc2d6f028b456f"
           }
         ]
+      ],
+      "700NITRO_FMJ": [
+        [
+          {
+            "count": 5623,
+            "_tpl": "5449016a4bdc2d6f028b456f"
+          }
+        ]
+      ],
+      "MP700": [
+        [
+          {
+            "count": 128974,
+            "_tpl": "5449016a4bdc2d6f028b456f"
+          }
+        ]
+      ],
+      "barrel_MP700": [
+        [
+          {
+            "count": 231567,
+            "_tpl": "5449016a4bdc2d6f028b456f"
+          }
+        ]
+      ],
+      "MP700_WEAPON": [
+        [
+          {
+            "count": 403152,
+            "_tpl": "5449016a4bdc2d6f028b456f"
+          }
+        ]
       ]
     },
     "loyal_level_items": {
-      "bucket": 2
+      "bucket": 2,
+      "700NITRO_FMJ": 4,
+      "MP700": 4,
+      "barrel_MP700": 4,
+      "MP700_WEAPON": 4
     }
   },
   "5a7c2eca46aef81a7ca2145d": {

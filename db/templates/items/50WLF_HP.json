@@ -95,7 +95,7 @@
 		"TracerColor": "red",
 		"TracerDistance": 0,
 		"ArmorDamage": 33,
-		"Caliber": "Caliber12.7x42mmRB",
+		"Caliber": "Caliber12.7x42",
 		"BulletDiameterMilimeters": 13.01,
 		"BulletMassGram": 22,
 		"StaminaBurnPerDamage": 0.3,
