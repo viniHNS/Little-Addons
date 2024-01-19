@@ -34,6 +34,14 @@
             ]
         },
         {
+            "key": "STs-130PT2.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+				"shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
             "key": "STs-130VPS.bundle",
             "dependencyKeys": [
                 "cubemaps",
