@@ -16,7 +16,7 @@
 		"SpawnChance": 3,
 		"ItemSound": "ammo_singleround",
 		"Prefab": {
-			"path": "STs-130.bundle",
+			"path": "STs-130PT2.bundle",
 			"rcid": ""
 		},
 		"UsePrefab": {
