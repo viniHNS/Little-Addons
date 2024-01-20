@@ -174,9 +174,13 @@
       "Name": "AR-15 Vltor MUR-1S .50 beowulf upper receiver",
       "ShortName": "AR-15 Vltor MUR-1S .50 beowulf upper receiver",
       "Description": "The MUR-1S modular upper receiver for AR-based weapons, manufactured by Vltor. Fitted with mounts for attaching additional equipment."
+    },
+    "mount_SVT40_custom": {
+      "Name": "SVT-40 Tokarev Custom mount",
+      "ShortName": "SVT-40 Tokarev Custom mount",
+      "Description": "Custom SVT-40 7.62x54R mount made by Kiba Arms."
     }
     
   }
     
-  
 }
