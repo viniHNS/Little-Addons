@@ -30,6 +30,9 @@ class Mod implements IPostDBLoadMod
 
         db.templates.items["55d7217a4bdc2d86028b456d"]._props.Slots[5]._props.filters[0].Filter.push("helmet");
 
+        //Add custom mount to SVT40 
+        db.templates.items["643ea5b23db6f9f57107d9fd"]._props.Slots[4]._props.filters[0].Filter.push("mount_SVT40_custom");
+
         for(const itemFile in mydb.templates.items) {
             const item = JsonUtil.deserialize(VFS.readFile(`${itemPath}${itemFile}.json`));
             const hb = JsonUtil.deserialize(VFS.readFile(`${handbookPath}${itemFile}.json`));
