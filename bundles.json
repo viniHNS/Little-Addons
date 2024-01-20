@@ -34,6 +34,14 @@
             ]
         },
         {
+            "key": "mount_SVT40_custom.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+				"shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
             "key": "STs-130PT2.bundle",
             "dependencyKeys": [
                 "cubemaps",
