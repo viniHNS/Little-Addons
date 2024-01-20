@@ -59,6 +59,16 @@
         }
       },
       {
+        "_id": "mount_SVT40_custom",
+        "_tpl": "mount_SVT40_custom",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "upd": {
+          "UnlimitedCount": false,
+          "StackObjectsCount": 5234
+        }
+      },
+      {
         "_id": "700NITRO_FMJ",
         "_tpl": "700NITRO_FMJ",
         "parentId": "hideout",
@@ -112,10 +122,19 @@
       }
     ],
     "barter_scheme": {
+      
       "bucket": [
         [
           {
             "count": 28956,
+            "_tpl": "5449016a4bdc2d6f028b456f"
+          }
+        ]
+      ],
+      "mount_SVT40_custom": [
+        [
+          {
+            "count": 12569,
             "_tpl": "5449016a4bdc2d6f028b456f"
           }
         ]
@@ -158,7 +177,8 @@
       "700NITRO_FMJ": 4,
       "MP700": 4,
       "barrel_MP700": 4,
-      "MP700_WEAPON": 4
+      "MP700_WEAPON": 4,
+      "mount_SVT40_custom": 2
     }
   },
   "5a7c2eca46aef81a7ca2145d": {
