@@ -18,14 +18,6 @@
             ]
         },
         {
-            "key": "germanhelmet.bundle",
-            "dependencyKeys": [
-                "cubemaps",
-				"shaders",
-				"assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
             "key": "STs-130.bundle",
             "dependencyKeys": [
                 "cubemaps",
@@ -51,6 +43,14 @@
         },
         {
             "key": "STs-130VPS.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+				"shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        },
+        {
+            "key": "STs-130VMax.bundle",
             "dependencyKeys": [
                 "cubemaps",
 				"shaders",
