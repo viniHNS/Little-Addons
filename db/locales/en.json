@@ -1,176 +1,181 @@
 {
   "templates": {
-    "bucket": {
+    "6643ec99be9f66e44f001e8b": {
       "Name": "Rusty Bucket",
       "ShortName": "Bucket",
       "Description": "This helmet is so rusty, it's practically a colander. But don't worry, it's still perfectly good at stopping bullets. Well, most bullets. At least some of the time. Forged from the finest 10mm thick steel by an unknown scav"
     },
-    "cardboardhelmet": {
+    "6643ecd08d75026930377700": {
       "Name": "Cardboard Helmet",
       "ShortName": "Cardboard Helmet",
       "Description": "This trusty, but definitely not certified, cardboard helmet offers about as much protection as a wet napkin against a bullet. However, it's surprisingly stylish and sure to turn heads (and maybe get you shot). Perfect for the budget-conscious PMC. Disclaimer: This helmet does not guarantee your survival against any form of weaponry. Use at your own risk (and amusement)."
     },
-    "glock21": {
+    "6643ed2f0a29d69de8322986": {
+      "Name": "Stahlhelm M42 helmet",
+      "ShortName": "M42 Helmet",
+      "Description": "This authentic Stahlhelm M42 helmet offers vintage protection with modern-day coolness. Originally used by the Wehrmacht, this helmet is now a favorite among collectors and historical reenactors."
+    },
+    "6643ed580ce419e213af4bb6": {
       "Name": "Glock 21 .45ACP pistol",
       "ShortName": "Glock 21",
       "Description": "Glock 21 is an Austrian pistol designed by Glock company. Thanks to both its impressive combat characteristics and reliablity it gained wide recognition and popularity as a police, shooting sports and civilian self-defense weapon."
     },
-    "reciever_glock_glock_21_mos_slide": {
+    "6643ee01b29cc64afcf75319": {
       "Name": "Glock 21 MOS slide",
       "ShortName": "Glock 21 MOS slide",
       "Description": "The MOS (Modular Optic System) slide designed for Glock .45 ACP pistols. Manufactured by Glock."
     },
-    "reciever_glock_glock_21_std": {
+    "6643ee15904b58e0c01ce7c9": {
       "Name": "Glock 21 slide",
       "ShortName": "Glock 21 slide",
       "Description": "The standard slide for Glock 21 .45 ACP pistol. Manufactured by Glock."
     },
-    "reciever_glock_gspc_moto_slide_cut_45acp": {
+    "6643ee514aea715a45dcdcf0": {
       "Name": "Glock .45 ACP Moto Cut pistol slide",
       "ShortName": "Glock Moto Cut slide",
       "Description": "A lightweight slide for Glock .45 ACP pistols."
     },
-    "reciever_glock_gspc_viper_slide_cut_45acp": {
+    "6643ee68577d5b66d8fd2da7": {
       "Name": "Glock .45 ACP Viper Cut pistol slide",
       "ShortName": "Glock Viper Cut slide",
       "Description": "A lightweight slide for Glock .45 ACP pistols."
     },
-    "reciever_glock_lone_wolf_alphawolf_45acp": {
+    "6643ee79e45ef6d6bdd29ab9": {
       "Name": "Glock Lone Wolf AlphaWolf pistol slide for Glock 21",
       "ShortName": "Glock Lone Wolf slide",
       "Description": "A slide for Glock pistols family, manufactured by Lone Wolf."
     },
-    "reciever_glock_polymer80_ps9_45acp": {
+    "6643ee8f6885b0044c27577e": {
       "Name": "Polymer80 PS9 Glock slide",
       "ShortName": "Polymer80 PS9 slide",
       "Description": "A slide for Glock pistols family, manufactured by Polymer80."
     },
-    "reciever_glock_zev_tech_hex_rmr_cut_gen_3_45acp": {
+    "6643ee9fe4dfba4d267e83f4": {
       "Name": "Glock ZEV Tech HEX Gen3 RMR pistol slide",
       "ShortName": "Glock ZEV HEX Tech slide",
       "Description": "A slide for Glock pistols family, manufactured by ZEV Technologies. Includes a mount for installation of the RMR reflex sights lineup."
     },
-    "reciever_glock_zev_tech_spartan_rmr_cut_gen_3_45acp": {
+    "6643eeb545c5f5338100a60b": {
       "Name": "Glock ZEV Tech Spartan Gen3 RMR pistol slide",
       "ShortName": "Glock ZEV Spartan Tech slide",
       "Description": "A slide for Glock pistols family, manufactured by ZEV Technologies. Includes a mount for installation of the RMR reflex sights lineup."
     },
-    "barrel_glock_alpha_wolf_114mm_threaded_45acp": {
+    "6643ec0844e8ddc0fe957346": {
       "Name": "Glock Lone Wolf AlphaWolf Threaded Barrel for Glock 21",
       "ShortName": "Threaded Barrel AW",
       "Description": "A threaded barrel for .45 ACP pistols of the Glock family. Manufactured by Lone Wolf."
     },
-    "barrel_glock_double_diamond_114mm_threaded_45acp": {
+    "6643ec222eef833707e25e5b": {
       "Name": "Glock .45 ACP Double Diamond threaded barrel",
       "ShortName": "G DD thr.",
       "Description": "A threaded barrel for .45 ACP pistols of Glock family. Manufactured by Double Diamond."
     },
-    "barrel_glock_glock_114mm_45acp_compensated": {
+    "6643ec38b387e27510f05cfa": {
       "Name": "Glock .45 ACP Compensated barrel",
       "ShortName": "G Comp. barrel",
       "Description": "A compensated barrel for .45 ACP pistols of Glock family. Manufactured by Glock."
     },
-    "barrel_glock_salient_arms_114mm_threaded_45acp": {
+    "6643ec507b741df851a9c424": {
       "Name": "Glock .45 ACP Salient Arms Threaded barrel",
       "ShortName": "Threaded barrel SA",
       "Description": "A threaded barrel for .45 ACP pistols of Glock family. Manufactured by Salient Arms."
     },
-    "barrel_glock_std_45acp": {
+    "6643ec695cfe222e012e32c1": {
       "Name": "Glock .45 ACP Standard barrel",
       "ShortName": "G Std. barrel",
       "Description": "A standard barrel for .45 ACP pistols of Glock family. Manufactured by Glock."
     },
-    "VKS": {
+    "6643ef74cba98a5c84b9121c": {
       "Name": "VKS Vykhlop 12.7x55 Sniper Rifle",
       "ShortName": "VKS",
       "Description": "The 12.7×55mm VKS silenced sniper rifle is intended for special operations that require silent firing and penetration much superior to that provided by 9×39mm VSS silenced sniper rifle. Typical targets for the VKS are combatants in heavy body armor or behind cover. The weapon uses an integral suppressor."
     },
-    "SUP": {
+    "6643ef4f859db3d8379b5eaf": {
       "Name": "Vykhlop Integral Supressor",
       "ShortName": "VKS int. Supressor",
       "Description": "Integral Supressor for VKS Vykhlop Sniper Rifle"
     },
-    "VMAG": {
+    "6643efaa05ac5da670fea726": {
       "Name": "5 Round Magazine for VKS Vykhlop Sniper rifle",
       "ShortName": "VKS 5rd",
       "Description": "5 Round Polymer Magazine for VKS Vykhlop 12.7x55 Sniper Rifle "
     },
-    "STs-130": {
+    "6643eec83b2c9104e74c0bef": {
       "Name": "12.7x55 STs-130",
       "ShortName": "STs-130",
       "Description": "The 12.7×55mm cartridge is used in some Russian firearms such as VKS bullpup sniper rifle. The cartridge can carry a projectile weighing between from 108 grains and 1173 grains and is predominantly used to fire heavy subsonic loads. The high penetration VKS round can penetrate up to 16 mm (0.63 in) of steel at 200 metres (220 yd) or body armor up to GOST 5 or NIJ III at 100 metres (110 yd). The accuracy of this cartridge when loaded with precision VKS bullets is claimed to be one MOA at 100 metres (110 yd) up to the effective range limit of 600 metres (660 yd).[1] Despite being chambered in the same cartridge, the ShAK-12 would not be able to feed or chamber rounds designed for the VKS due to significant length differences in the bullet component of the cartridge and thus requires its own, shorter, loads. The ShAK-12 rounds have less range compared to the VKS with the maximum effective range of the loads reaching in between 100 and 300 metres (110 and 330 yd)"
     },
-    "STs-130VPS": {
+    "6643ef279e9ebaa4d8fc604d": {
       "Name": "12.7x55 STs-130VPS",
       "ShortName": "STs-130VPS",
       "Description": "The 12.7×55mm cartridge is used in some Russian firearms such as VKS bullpup sniper rifle. Compared to the STs-130, the STs-130VPS (СЦ-130ВПС) has increased penetration thanks to the 76 gram bullet. A little corroded and dirty"
     },
-    "STs-130PT2": {
+    "6643eef81ba9a68596e12846": {
       "Name": "12.7x55 STs-130PT2",
       "ShortName": "STs-130PT2",
       "Description": "The 12.7×55mm cartridge is used in some Russian firearms such as VKS bullpup sniper rifle. Compared to the STs-130, the STs-130PT2 (СЦ-130ПТ2) has increased accuracy thanks to the solid bronze bullet."
     },
-    "50WLF": {
+    "6643eb33e6a42c5684471906": {
       "Name": ".50 Beowulf FMJ",
       "ShortName": ".50 Beowulf FMJ",
       "Description": "The .50 Beowulf is a rifle cartridge developed by Bill Alexander of Alexander Arms for use in a modified AR-15 rifle. The cartridge utilizes a rebated rim, sized to match the rim of the 7.62×39mm and 6.5mm Grendel rounds."
     },
-    "50WLF_HP": {
+    "6642b6b15d80dec030dafa7a": {
       "Name": ".50 Beowulf HP",
       "ShortName": ".50 Beowulf HP",
       "Description": "The .50 Beowulf is a rifle cartridge developed by Bill Alexander of Alexander Arms for use in a modified AR-15 rifle. The cartridge utilizes a rebated rim, sized to match the rim of the 7.62×39mm and 6.5mm Grendel rounds. The round is intended to improve stopping power greatly at short to medium-range as compared to the standard 5.56×45mm NATO round thanks to the hollow point."
     },
-    "50WLF_HYDRA": {
+    "6643ea180814e77a3a18db58": {
       "Name": ".50 Beowulf Hydra-Shok JHP",
       "ShortName": ".50 Beowulf Hydra-Shok",
       "Description": "The .50 Beowulf is a rifle cartridge developed by Bill Alexander of Alexander Arms for use in a modified AR-15 rifle. The cartridge utilizes a rebated rim, sized to match the rim of the 7.62×39mm and 6.5mm Grendel rounds. The round is intended to improve stopping power greatly at short to medium-range as compared to the standard 5.56×45mm NATO round thanks to the jacketed hollow point."
     },
-    "700NITRO_FMJ": {
+    "6643eb62ef9aaed4947a9836": {
       "Name": ".700 Nitro Express FMJ",
       "ShortName": ".700 Nitro Express FMJ",
       "Description": "The .700 Nitro Express (17.8×89mmR) is a big game rifle cartridge made by Holland & Holland, London, England. It was developed in 1988 by Jim Bell and William Feldstein and built by H&H. The recoil is substantial, and the rifle is only available from H&H as a bespoke item. The .700 Nitro Express is a straight rimmed cartridge designed for use in single-shot and double rifles. "
     },
-    "MP700": {
+    "6643edda4a05be2737da3134": {
       "Name": "MP-700 .700 Nitro Express Double Rifle",
       "ShortName": "MP-700 .700 Nitro Express Double Rifle",
       "Description": "The MP-700 is a double-barreled rifle chambered in .700 Nitro Express. It is a break-action rifle with two barrels. The rifle is equipped with open sights. The rifle is intended for hunting dangerous animals."
     },
-    "barrel_MP700": {
+    "6643ec7e9f7598f9f556b493": {
       "Name": "MP-700 .700 Nitro Express Double Rifle Barrel",
       "ShortName": "MP-700 .700 Nitro Express Double Rifle Barrel",
       "Description": "A 750mm long .700 Nitro Express barrel for MP-700 double-barreled rifle. Because of the pressure of the .700 Nitro Express cartridge, the barrel is extremely heavy. Manufactured by Holland & Holland."
     },
-    "barrel_ar15_50beowulf_18in": {
+    "6643eba54a3c851618b1c786": {
       "Name": "AR-15 .50 Beowulf 18 inch barrel",
       "ShortName": "AR-15 .50 Beowulf 18 inch barrel",
       "Description": "18 inches barrel for AR-15 based systems for 50 Beowulf ammo. Made by SSK Industries."
     },
-    "colt_ar15_50beowulf": {
+    "6643ecf874882999e95e926c": {
       "Name": "Colt .50 Beowulf Assault Rifle",
       "ShortName": "Colt AR .50 Beowulf",
       "Description": "The Colt AR in .50 Beowulf is a gas operated, rifle with a rotating bolt, actuated by direct impingement gas operation. It is based on the standard AR-15 rifle, but with a heavy barrel, modified bolt, and 12.7x42mmRB magazines. The rifle is capable of firing all .50 Beowulf ammunition types."
     },
-    "gasblock_ar15_50beowulf_mk12": {
+    "6643ed1864892fae7fa9df0b": {
       "Name": "MK12 Low Profile Gas Block",
       "ShortName": "MK12 Gas Block",
       "Description": "MK12 Low Profile Gas Block for AR-15 based systems. Made specific for .50 Beowulf ammo."
     },
-    "handguard_ar15_50beowulf": {
+    "6643ed70bf869eb9f52881eb": {
       "Name": "Alexander Arms 15.8 inch handguard",
       "ShortName": "Alexander Arms 15.8 inch handguard",
       "Description": "Alexander Arms 15.8 inch handguard made by Alexander Arms for AR-15 based systems for 50 Beowulf ammo."
     },
-    "mag_ar15_50beowulf": {
+    "6643ed867ca1c85e01d78c4a": {
       "Name": "10-round .50 Beowulf magazine",
       "ShortName": "10rnd .50 Beowulf mag",
       "Description": "10-round .50 Beowulf magazine for AR-15 based systems for .50 Beowulf ammo. Because of the size of the .50 Beowulf cartridge, the magazine is limited to 10 rounds."
     },
-    "reciever_ar15_50beowulf": {
+    "6643edefd1f151dad20e840e": {
       "Name": "AR-15 Vltor MUR-1S .50 beowulf upper receiver",
       "ShortName": "AR-15 Vltor MUR-1S .50 beowulf upper receiver",
       "Description": "The MUR-1S modular upper receiver for AR-based weapons, manufactured by Vltor. Fitted with mounts for attaching additional equipment."
     },
-    "mount_SVT40_custom": {
+    "6643ed9bd8da456ea6f394dc": {
       "Name": "SVT-40 Tokarev Custom mount",
       "ShortName": "SVT-40 Tokarev Custom mount",
       "Description": "Custom SVT-40 7.62x54R mount made by Kiba Arms."

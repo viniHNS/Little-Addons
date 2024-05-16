@@ -1,5 +1,5 @@
 {
-  "_id": "glock21",
+  "_id": "6643ed580ce419e213af4bb6",
   "_name": "weapon_glock_glock_21_gen3_45acp",
   "price": 18000,
   "_parent": "5447b5cf4bdc2d65278b4567",
@@ -30,7 +30,7 @@
         "_id": "glock21_chamber",
         "_mergeSlotWithChildren": false,
         "_name": "patron_in_weapon",
-        "_parent": "glock21",
+        "_parent": "6643ed580ce419e213af4bb6",
         "_props": {
           "filters": [
             {
@@ -152,16 +152,16 @@
         "_id": "glock21_barrel",
         "_mergeSlotWithChildren": false,
         "_name": "mod_barrel",
-        "_parent": "glock21",
+        "_parent": "6643ed580ce419e213af4bb6",
         "_props": {
           "filters": [
             {
               "Filter": [
                 "alpha_wolf_114mm_threaded_45_acp_barrel",
-                "barrel_glock_double_diamond_114mm_threaded_45acp",
-                "barrel_glock_glock_114mm_45acp_compensated",
+                "6643ec222eef833707e25e5b",
+                "6643ec38b387e27510f05cfa",
                 "barrel_glock21_std_45acp",
-                "barrel_glock_salient_arms_114mm_threaded_45acp"
+                "6643ec507b741df851a9c424"
               ],
               "Shift": 0
             }
@@ -174,7 +174,7 @@
         "_id": "glock21_grip",
         "_mergeSlotWithChildren": false,
         "_name": "mod_pistol_grip",
-        "_parent": "glock21",
+        "_parent": "6643ed580ce419e213af4bb6",
         "_props": {
           "filters": [
             {
@@ -190,19 +190,19 @@
         "_id": "glock21_receiver",
         "_mergeSlotWithChildren": false,
         "_name": "mod_reciever",
-        "_parent": "glock21",
+        "_parent": "6643ed580ce419e213af4bb6",
         "_props": {
           "filters": [
             {
               "Filter": [
-                "reciever_glock_lone_wolf_alphawolf_45acp",
-                "reciever_glock_polymer80_ps9_45acp",
-                "reciever_glock_gspc_viper_slide_cut_45acp",
-                "reciever_glock_gspc_moto_slide_cut_45acp",
-                "reciever_glock_glock_21_std",
-                "reciever_glock_glock_21_mos_slide",
-                "reciever_glock_zev_tech_hex_rmr_cut_gen_3_45acp",
-                "reciever_glock_zev_tech_spartan_rmr_cut_gen_3_45acp"
+                "6643ee79e45ef6d6bdd29ab9",
+                "6643ee8f6885b0044c27577e",
+                "6643ee68577d5b66d8fd2da7",
+                "6643ee514aea715a45dcdcf0",
+                "6643ee15904b58e0c01ce7c9",
+                "6643ee01b29cc64afcf75319",
+                "6643ee9fe4dfba4d267e83f4",
+                "6643eeb545c5f5338100a60b"
               ],
               "Shift": 0
             }
@@ -215,7 +215,7 @@
         "_id": "glock21_magazine",
         "_mergeSlotWithChildren": false,
         "_name": "mod_magazine",
-        "_parent": "glock21",
+        "_parent": "6643ed580ce419e213af4bb6",
         "_props": {
           "filters": [
             {

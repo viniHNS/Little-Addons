@@ -1,5 +1,5 @@
 {
-  "_id": "mag_ar15_50beowulf",
+  "_id": "6643ed867ca1c85e01d78c4a",
   "_name": "mag_stanag_colt_ar15_std_556x45_30",
   "_parent": "5448bc234bdc2d3c308b4569",
   "_props": {
@@ -26,9 +26,9 @@
           "filters": [
             {
               "Filter": [
-                "50WLF",
-                "50WLF_HP",
-                "50WLF_HYDRA"
+                "6643eb33e6a42c5684471906",
+                "6642b6b15d80dec030dafa7a",
+                "6643ea180814e77a3a18db58"
               ]
             }
           ]

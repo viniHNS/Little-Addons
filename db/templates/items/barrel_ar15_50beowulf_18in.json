@@ -1,5 +1,5 @@
 {
-  "_id": "barrel_ar15_50beowulf_18in",
+  "_id": "6643eba54a3c851618b1c786",
   "_name": "barrel_ar15_457mm",
   "_parent": "555ef6e44bdc2de9068b457e",
   "_props": {
@@ -106,7 +106,7 @@
           "filters": [
             {
               "Filter": [
-                "gasblock_ar15_50beowulf_mk12"
+                "6643ed1864892fae7fa9df0b"
               ],
               "Shift": 0
             }

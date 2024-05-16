@@ -1,5 +1,5 @@
 {
-  "_id": "reciever_ar15_50beowulf",
+  "_id": "6643edefd1f151dad20e840e",
   "_name": "reciever_ar15_50beowulf_vltor_mur-1s",
   "_parent": "55818a304bdc2db5418b457d",
   "_props": {
@@ -156,7 +156,7 @@
           "filters": [
             {
               "Filter": [
-                "barrel_ar15_50beowulf_18in"
+                "6643eba54a3c851618b1c786"
               ],
               "Shift": 0
             }
@@ -174,7 +174,7 @@
           "filters": [
             {
               "Filter": [
-                "handguard_ar15_50beowulf"
+                "6643ed70bf869eb9f52881eb"
               ],
               "Shift": 0
             }

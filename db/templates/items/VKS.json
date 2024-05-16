@@ -1,5 +1,5 @@
 {
-	"_id": "VKS",
+	"_id": "6643ef74cba98a5c84b9121c",
 	"_name": "weapon_ckib_ash_12_127x55",
 	"_parent": "5447b5f14bdc2d61278b4567",
 	"_type": "Item",
@@ -68,7 +68,7 @@
 						{
 							"Shift": 0,
 							"Filter": [
-								"SUP"
+								"6643ef4f859db3d8379b5eaf"
 							]
 						}
 					]
@@ -86,7 +86,7 @@
 						{
 							"AnimationIndex": -1,
 							"Filter": [
-								"VMAG"
+								"6643efaa05ac5da670fea726"
 							]
 						}
 					]
@@ -410,9 +410,9 @@
 					"filters": [
 						{
 							"Filter": [
-								"STs-130",
-								"STs-130VPS",
-								"STs-130PT2"
+								"6643eec83b2c9104e74c0bef",
+								"6643ef279e9ebaa4d8fc604d",
+								"6643eef81ba9a68596e12846"
 							]
 						}
 					]

@@ -1,5 +1,5 @@
 {
-	"_id": "VMAG",
+	"_id": "6643efaa05ac5da670fea726",
 	"_name": "mag_ash12_ckib_ash12_std_127x55_10",
 	"_parent": "5448bc234bdc2d3c308b4569",
 	"_type": "Item",
@@ -86,9 +86,9 @@
 					"filters": [
 						{
 							"Filter": [
-								"STs-130",
-								"STs-130VPS",
-								"STs-130PT2"
+								"6643eec83b2c9104e74c0bef",
+								"6643ef279e9ebaa4d8fc604d",
+								"6643eef81ba9a68596e12846"
 							]
 						}
 					]

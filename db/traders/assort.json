@@ -2,8 +2,8 @@
 	"5ac3b934156ae10c4430e83c": {
 		"items": [
       {
-        "_id": "cardboardhelmet",
-        "_tpl": "cardboardhelmet",
+        "_id": "6643ecd08d75026930377700",
+        "_tpl": "6643ecd08d75026930377700",
         "parentId": "hideout",
         "slotId": "hideout",
         "upd": {
@@ -12,8 +12,8 @@
         }
       },
 			{
-				"_id": "germanhelmet",
-				"_tpl": "germanhelmet",
+				"_id": "6643ed2f0a29d69de8322986",
+				"_tpl": "6643ed2f0a29d69de8322986",
 				"parentId": "hideout",
 				"slotId": "hideout",
 				"upd": {
@@ -23,7 +23,7 @@
 			}
     ],
     "barter_scheme": {
-      "cardboardhelmet": [
+      "6643ecd08d75026930377700": [
         [
           {
             "count": 3456,
@@ -31,7 +31,7 @@
           }
         ]
       ],
-			"germanhelmet": [
+			"6643ed2f0a29d69de8322986": [
 				[
 					{
 						"count": 22348,
@@ -41,16 +41,16 @@
 			]
     },
     "loyal_level_items": {
-      "cardboardhelmet": 1,
-			"germanhelmet": 1
+      "6643ecd08d75026930377700": 1,
+			"6643ed2f0a29d69de8322986": 1
     }
 	},
 
   "5c0647fdd443bc2504c2d371": {
     "items": [
       {
-        "_id": "bucket",
-        "_tpl": "bucket",
+        "_id": "6643ec99be9f66e44f001e8b",
+        "_tpl": "6643ec99be9f66e44f001e8b",
         "parentId": "hideout",
         "slotId": "hideout",
         "upd": {
@@ -59,8 +59,8 @@
         }
       },
       {
-        "_id": "mount_SVT40_custom",
-        "_tpl": "mount_SVT40_custom",
+        "_id": "6643ed9bd8da456ea6f394dc",
+        "_tpl": "6643ed9bd8da456ea6f394dc",
         "parentId": "hideout",
         "slotId": "hideout",
         "upd": {
@@ -69,8 +69,8 @@
         }
       },
       {
-        "_id": "700NITRO_FMJ",
-        "_tpl": "700NITRO_FMJ",
+        "_id": "6643eb62ef9aaed4947a9836",
+        "_tpl": "6643eb62ef9aaed4947a9836",
         "parentId": "hideout",
         "slotId": "hideout",
         "upd": {
@@ -79,8 +79,8 @@
         }
       },
       {
-        "_id": "MP700",
-        "_tpl": "MP700",
+        "_id": "6643edda4a05be2737da3134",
+        "_tpl": "6643edda4a05be2737da3134",
         "parentId": "hideout",
         "slotId": "hideout",
         "upd": {
@@ -89,8 +89,8 @@
         }
       },
       {
-        "_id": "barrel_MP700",
-        "_tpl": "barrel_MP700",
+        "_id": "6643ec7e9f7598f9f556b493",
+        "_tpl": "6643ec7e9f7598f9f556b493",
         "parentId": "hideout",
         "slotId": "hideout",
         "upd": {
@@ -100,7 +100,7 @@
       },
       {
         "_id": "MP700_WEAPON",
-        "_tpl": "MP700",
+        "_tpl": "6643edda4a05be2737da3134",
         "parentId": "hideout",
         "slotId": "hideout",
         "upd": {
@@ -116,14 +116,14 @@
       },
       {
         "_id": "493238e79e71fee208159540",
-        "_tpl": "barrel_MP700",
+        "_tpl": "6643ec7e9f7598f9f556b493",
         "parentId": "MP700_WEAPON",
         "slotId": "mod_barrel"
       }
     ],
     "barter_scheme": {
       
-      "bucket": [
+      "6643ec99be9f66e44f001e8b": [
         [
           {
             "count": 28956,
@@ -131,7 +131,7 @@
           }
         ]
       ],
-      "mount_SVT40_custom": [
+      "6643ed9bd8da456ea6f394dc": [
         [
           {
             "count": 12569,
@@ -139,7 +139,7 @@
           }
         ]
       ],
-      "700NITRO_FMJ": [
+      "6643eb62ef9aaed4947a9836": [
         [
           {
             "count": 5623,
@@ -147,7 +147,7 @@
           }
         ]
       ],
-      "MP700": [
+      "6643edda4a05be2737da3134": [
         [
           {
             "count": 128974,
@@ -155,7 +155,7 @@
           }
         ]
       ],
-      "barrel_MP700": [
+      "6643ec7e9f7598f9f556b493": [
         [
           {
             "count": 231567,
@@ -173,19 +173,19 @@
       ]
     },
     "loyal_level_items": {
-      "bucket": 2,
-      "700NITRO_FMJ": 4,
-      "MP700": 4,
-      "barrel_MP700": 4,
+      "6643ec99be9f66e44f001e8b": 2,
+      "6643eb62ef9aaed4947a9836": 4,
+      "6643edda4a05be2737da3134": 4,
+      "6643ec7e9f7598f9f556b493": 4,
       "MP700_WEAPON": 4,
-      "mount_SVT40_custom": 2
+      "6643ed9bd8da456ea6f394dc": 2
     }
   },
   "5a7c2eca46aef81a7ca2145d": {
     "items": [
       {
-        "_id": "glock21",
-        "_tpl": "glock21",
+        "_id": "6643ed580ce419e213af4bb6",
+        "_tpl": "6643ed580ce419e213af4bb6",
         "parentId": "hideout",
         "slotId": "hideout",
         "upd": {
@@ -194,8 +194,8 @@
         }
       },
       {
-        "_id": "50WLF",
-        "_tpl": "50WLF",
+        "_id": "6643eb33e6a42c5684471906",
+        "_tpl": "6643eb33e6a42c5684471906",
         "parentId": "hideout",
         "slotId": "hideout",
         "upd": {
@@ -204,8 +204,8 @@
         }
       },
       {
-        "_id": "50WLF_HP",
-        "_tpl": "50WLF_HP",
+        "_id": "6642b6b15d80dec030dafa7a",
+        "_tpl": "6642b6b15d80dec030dafa7a",
         "parentId": "hideout",
         "slotId": "hideout",
         "upd": {
@@ -214,8 +214,8 @@
         }
       },
       {
-        "_id": "barrel_ar15_50beowulf_18in",
-        "_tpl": "barrel_ar15_50beowulf_18in",
+        "_id": "6643eba54a3c851618b1c786",
+        "_tpl": "6643eba54a3c851618b1c786",
         "parentId": "hideout",
         "slotId": "hideout",
         "upd": {
@@ -224,8 +224,8 @@
         }
       },
       {
-        "_id": "gasblock_ar15_50beowulf_mk12",
-        "_tpl": "gasblock_ar15_50beowulf_mk12",
+        "_id": "6643ed1864892fae7fa9df0b",
+        "_tpl": "6643ed1864892fae7fa9df0b",
         "parentId": "hideout",
         "slotId": "hideout",
         "upd": {
@@ -234,8 +234,8 @@
         }
       },
       {
-        "_id": "colt_ar15_50beowulf",
-        "_tpl": "colt_ar15_50beowulf",
+        "_id": "6643ecf874882999e95e926c",
+        "_tpl": "6643ecf874882999e95e926c",
         "parentId": "hideout",
         "slotId": "hideout",
         "upd": {
@@ -244,8 +244,8 @@
         }
       },
       {
-        "_id": "50WLF_HYDRA",
-        "_tpl": "50WLF_HYDRA",
+        "_id": "6643ea180814e77a3a18db58",
+        "_tpl": "6643ea180814e77a3a18db58",
         "parentId": "hideout",
         "slotId": "hideout",
         "upd": {
@@ -254,8 +254,8 @@
         }
       },
       {
-        "_id": "reciever_glock_zev_tech_spartan_rmr_cut_gen_3_45acp",
-        "_tpl": "reciever_glock_zev_tech_spartan_rmr_cut_gen_3_45acp",
+        "_id": "6643eeb545c5f5338100a60b",
+        "_tpl": "6643eeb545c5f5338100a60b",
         "parentId": "hideout",
         "slotId": "hideout",
         "upd": {
@@ -264,8 +264,8 @@
         }
       },
       {
-        "_id": "reciever_glock_zev_tech_hex_rmr_cut_gen_3_45acp",
-        "_tpl": "reciever_glock_zev_tech_hex_rmr_cut_gen_3_45acp",
+        "_id": "6643ee9fe4dfba4d267e83f4",
+        "_tpl": "6643ee9fe4dfba4d267e83f4",
         "parentId": "hideout",
         "slotId": "hideout",
         "upd": {
@@ -274,8 +274,8 @@
         }
       },
       {
-        "_id": "reciever_glock_polymer80_ps9_45acp",
-        "_tpl": "reciever_glock_polymer80_ps9_45acp",
+        "_id": "6643ee8f6885b0044c27577e",
+        "_tpl": "6643ee8f6885b0044c27577e",
         "parentId": "hideout",
         "slotId": "hideout",
         "upd": {
@@ -284,8 +284,8 @@
         }
       },
       {
-        "_id": "reciever_glock_lone_wolf_alphawolf_45acp",
-        "_tpl": "reciever_glock_lone_wolf_alphawolf_45acp",
+        "_id": "6643ee79e45ef6d6bdd29ab9",
+        "_tpl": "6643ee79e45ef6d6bdd29ab9",
         "parentId": "hideout",
         "slotId": "hideout",
         "upd": {
@@ -294,8 +294,8 @@
         }
       },
       {
-        "_id": "reciever_glock_gspc_viper_slide_cut_45acp",
-        "_tpl": "reciever_glock_gspc_viper_slide_cut_45acp",
+        "_id": "6643ee68577d5b66d8fd2da7",
+        "_tpl": "6643ee68577d5b66d8fd2da7",
         "parentId": "hideout",
         "slotId": "hideout",
         "upd": {
@@ -304,8 +304,8 @@
         }
       },
       {
-        "_id": "reciever_glock_gspc_moto_slide_cut_45acp",
-        "_tpl": "reciever_glock_gspc_moto_slide_cut_45acp",
+        "_id": "6643ee514aea715a45dcdcf0",
+        "_tpl": "6643ee514aea715a45dcdcf0",
         "parentId": "hideout",
         "slotId": "hideout",
         "upd": {
@@ -314,8 +314,8 @@
         }
       },
       {
-        "_id": "reciever_glock_glock_21_std",
-        "_tpl": "reciever_glock_glock_21_std",
+        "_id": "6643ee15904b58e0c01ce7c9",
+        "_tpl": "6643ee15904b58e0c01ce7c9",
         "parentId": "hideout",
         "slotId": "hideout",
         "upd": {
@@ -325,8 +325,8 @@
         }
       },
       {
-        "_id": "reciever_glock_glock_21_mos_slide",
-        "_tpl": "reciever_glock_glock_21_mos_slide",
+        "_id": "6643ee01b29cc64afcf75319",
+        "_tpl": "6643ee01b29cc64afcf75319",
         "parentId": "hideout",
         "slotId": "hideout",
         "upd": {
@@ -336,8 +336,8 @@
         }
       },
       {
-        "_id": "barrel_glock_std_45acp",
-        "_tpl": "barrel_glock_std_45acp",
+        "_id": "6643ec695cfe222e012e32c1",
+        "_tpl": "6643ec695cfe222e012e32c1",
         "parentId": "hideout",
         "slotId": "hideout",
         "upd": {
@@ -347,8 +347,8 @@
         }
       },
       {
-        "_id": "barrel_glock_salient_arms_114mm_threaded_45acp",
-        "_tpl": "barrel_glock_salient_arms_114mm_threaded_45acp",
+        "_id": "6643ec507b741df851a9c424",
+        "_tpl": "6643ec507b741df851a9c424",
         "parentId": "hideout",
         "slotId": "hideout",
         "upd": {
@@ -358,8 +358,8 @@
         }
       },
       {
-        "_id": "barrel_glock_glock_114mm_45acp_compensated",
-        "_tpl": "barrel_glock_glock_114mm_45acp_compensated",
+        "_id": "6643ec38b387e27510f05cfa",
+        "_tpl": "6643ec38b387e27510f05cfa",
         "parentId": "hideout",
         "slotId": "hideout",
         "upd": {
@@ -369,8 +369,8 @@
         }
       },
       {
-        "_id": "barrel_glock_double_diamond_114mm_threaded_45acp",
-        "_tpl": "barrel_glock_double_diamond_114mm_threaded_45acp",
+        "_id": "6643ec222eef833707e25e5b",
+        "_tpl": "6643ec222eef833707e25e5b",
         "parentId": "hideout",
         "slotId": "hideout",
         "upd": {
@@ -380,8 +380,8 @@
         }
       },
       {
-        "_id": "barrel_glock_alpha_wolf_114mm_threaded_45acp",
-        "_tpl": "barrel_glock_alpha_wolf_114mm_threaded_45acp",
+        "_id": "6643ec0844e8ddc0fe957346",
+        "_tpl": "6643ec0844e8ddc0fe957346",
         "parentId": "hideout",
         "slotId": "hideout",
         "upd": {
@@ -391,8 +391,8 @@
         }
       },
       {
-        "_id": "handguard_ar15_50beowulf",
-        "_tpl": "handguard_ar15_50beowulf",
+        "_id": "6643ed70bf869eb9f52881eb",
+        "_tpl": "6643ed70bf869eb9f52881eb",
         "parentId": "hideout",
         "slotId": "hideout",
         "upd": {
@@ -402,8 +402,8 @@
         }
       },
       {
-        "_id": "reciever_ar15_50beowulf",
-        "_tpl": "reciever_ar15_50beowulf",
+        "_id": "6643edefd1f151dad20e840e",
+        "_tpl": "6643edefd1f151dad20e840e",
         "parentId": "hideout",
         "slotId": "hideout",
         "upd": {
@@ -413,8 +413,8 @@
         }
       },
       {
-        "_id": "mag_ar15_50beowulf",
-        "_tpl": "mag_ar15_50beowulf",
+        "_id": "6643ed867ca1c85e01d78c4a",
+        "_tpl": "6643ed867ca1c85e01d78c4a",
         "parentId": "hideout",
         "slotId": "hideout",
         "upd": {
@@ -426,7 +426,7 @@
     ],
     "barter_scheme": {
      
-      "reciever_glock_zev_tech_spartan_rmr_cut_gen_3_45acp": [
+      "6643eeb545c5f5338100a60b": [
         [
           {
             "count": 15000,
@@ -434,7 +434,7 @@
           }
         ]
       ],
-      "50WLF": [
+      "6643eb33e6a42c5684471906": [
         [
           {
             "count": 654,
@@ -442,7 +442,7 @@
           }
         ]
       ],
-      "50WLF_HP": [
+      "6642b6b15d80dec030dafa7a": [
         [
           {
             "count": 601,
@@ -450,7 +450,7 @@
           }
         ]
       ],
-      "50WLF_HYDRA": [
+      "6643ea180814e77a3a18db58": [
         [
           {
             "count": 628,
@@ -458,7 +458,7 @@
           }
         ]
       ],
-      "handguard_ar15_50beowulf": [
+      "6643ed70bf869eb9f52881eb": [
         [
           {
             "count": 54783,
@@ -466,7 +466,7 @@
           }
         ]
       ],
-      "barrel_ar15_50beowulf_18in": [
+      "6643eba54a3c851618b1c786": [
         [
           {
             "count": 18026,
@@ -474,7 +474,7 @@
           }
         ]
       ],
-      "gasblock_ar15_50beowulf_mk12": [
+      "6643ed1864892fae7fa9df0b": [
         [
           {
             "count": 6741,
@@ -482,7 +482,7 @@
           }
         ]
       ],
-      "colt_ar15_50beowulf": [
+      "6643ecf874882999e95e926c": [
         [
           {
             "count": 6741,
@@ -490,7 +490,7 @@
           }
         ]
       ],
-      "mag_ar15_50beowulf": [
+      "6643ed867ca1c85e01d78c4a": [
         [
           {
             "count": 2399,
@@ -498,7 +498,7 @@
           }
         ]
       ],
-      "reciever_glock_zev_tech_hex_rmr_cut_gen_3_45acp": [
+      "6643ee9fe4dfba4d267e83f4": [
         [
           {
             "count": 15000,
@@ -506,7 +506,7 @@
           }
         ]
       ],
-      "reciever_glock_polymer80_ps9_45acp": [
+      "6643ee8f6885b0044c27577e": [
         [
           {
             "count": 12000,
@@ -514,7 +514,7 @@
           }
         ]
       ],
-      "reciever_glock_lone_wolf_alphawolf_45acp": [
+      "6643ee79e45ef6d6bdd29ab9": [
         [
           {
             "count": 13000,
@@ -522,7 +522,7 @@
           }
         ]
       ],
-      "reciever_glock_gspc_viper_slide_cut_45acp": [
+      "6643ee68577d5b66d8fd2da7": [
         [
           {
             "count": 12000,
@@ -530,7 +530,7 @@
           }
         ]
       ],
-      "reciever_glock_gspc_moto_slide_cut_45acp": [
+      "6643ee514aea715a45dcdcf0": [
         [
           {
             "count": 12000,
@@ -538,7 +538,7 @@
           }
         ]
       ],
-      "reciever_glock_glock_21_std": [
+      "6643ee15904b58e0c01ce7c9": [
         [
           {
             "count": 8000,
@@ -546,7 +546,7 @@
           }
         ]
       ],
-      "reciever_glock_glock_21_mos_slide": [
+      "6643ee01b29cc64afcf75319": [
         [
           {
             "count": 10000,
@@ -554,7 +554,7 @@
           }
         ]
       ],
-      "barrel_glock_std_45acp": [
+      "6643ec695cfe222e012e32c1": [
         [
           {
             "count": 8541,
@@ -562,7 +562,7 @@
           }
         ]
       ],
-      "barrel_glock_salient_arms_114mm_threaded_45acp": [
+      "6643ec507b741df851a9c424": [
         [
           {
             "count": 15698,
@@ -570,7 +570,7 @@
           }
         ]
       ],
-      "barrel_glock_glock_114mm_45acp_compensated": [
+      "6643ec38b387e27510f05cfa": [
         [
           {
             "count": 9856,
@@ -578,7 +578,7 @@
           }
         ]
       ],
-      "barrel_glock_double_diamond_114mm_threaded_45acp": [
+      "6643ec222eef833707e25e5b": [
         [
           {
             "count": 12365,
@@ -586,7 +586,7 @@
           }
         ]
       ],
-      "barrel_glock_alpha_wolf_114mm_threaded_45acp": [
+      "6643ec0844e8ddc0fe957346": [
         [
           {
             "count": 12365,
@@ -594,7 +594,7 @@
           }
         ]
       ],
-      "glock21": [
+      "6643ed580ce419e213af4bb6": [
         [
           {
             "count": 19563,
@@ -602,7 +602,7 @@
           }
         ]
       ],
-      "reciever_ar15_50beowulf": [
+      "6643edefd1f151dad20e840e": [
         [
           {
             "count": 39987,
@@ -613,36 +613,36 @@
     },
     
     "loyal_level_items": {
-      "reciever_glock_zev_tech_spartan_rmr_cut_gen_3_45acp": 2,
-      "reciever_glock_zev_tech_hex_rmr_cut_gen_3_45acp": 2,
-      "reciever_glock_polymer80_ps9_45acp": 2,
-      "reciever_glock_lone_wolf_alphawolf_45acp": 2,
-      "reciever_glock_gspc_viper_slide_cut_45acp": 2,
-      "reciever_glock_gspc_moto_slide_cut_45acp": 2,
-      "reciever_glock_glock_21_std": 1,
-      "reciever_glock_glock_21_mos_slide": 1,
-      "barrel_glock_std_45acp": 1,
-      "barrel_glock_salient_arms_114mm_threaded_45acp": 2,
-      "barrel_glock_glock_114mm_45acp_compensated": 2,
-      "barrel_glock_double_diamond_114mm_threaded_45acp": 2,
-      "barrel_glock_alpha_wolf_114mm_threaded_45acp": 2,
-      "glock21": 1,
-      "50WLF": 3,
-      "50WLF_HP": 3,
-      "50WLF_HYDRA": 3,
-      "handguard_ar15_50beowulf": 3,
-      "barrel_ar15_50beowulf_18in": 3,
-      "gasblock_ar15_50beowulf_mk12": 3,
-      "reciever_ar15_50beowulf": 3,
-      "colt_ar15_50beowulf": 3,
-      "mag_ar15_50beowulf": 3
+      "6643eeb545c5f5338100a60b": 2,
+      "6643ee9fe4dfba4d267e83f4": 2,
+      "6643ee8f6885b0044c27577e": 2,
+      "6643ee79e45ef6d6bdd29ab9": 2,
+      "6643ee68577d5b66d8fd2da7": 2,
+      "6643ee514aea715a45dcdcf0": 2,
+      "6643ee15904b58e0c01ce7c9": 1,
+      "6643ee01b29cc64afcf75319": 1,
+      "6643ec695cfe222e012e32c1": 1,
+      "6643ec507b741df851a9c424": 2,
+      "6643ec38b387e27510f05cfa": 2,
+      "6643ec222eef833707e25e5b": 2,
+      "6643ec0844e8ddc0fe957346": 2,
+      "6643ed580ce419e213af4bb6": 1,
+      "6643eb33e6a42c5684471906": 3,
+      "6642b6b15d80dec030dafa7a": 3,
+      "6643ea180814e77a3a18db58": 3,
+      "6643ed70bf869eb9f52881eb": 3,
+      "6643eba54a3c851618b1c786": 3,
+      "6643ed1864892fae7fa9df0b": 3,
+      "6643edefd1f151dad20e840e": 3,
+      "6643ecf874882999e95e926c": 3,
+      "6643ed867ca1c85e01d78c4a": 3
     }
   },
   "54cb50c76803fa8b248b4571": {
     "items": [
       {
-        "_id": "STs-130",
-        "_tpl": "STs-130",
+        "_id": "6643eec83b2c9104e74c0bef",
+        "_tpl": "6643eec83b2c9104e74c0bef",
         "parentId": "hideout",
         "slotId": "hideout",
         "upd": {
@@ -651,8 +651,8 @@
         }
       },
       {
-        "_id": "STs-130VPS",
-        "_tpl": "STs-130VPS",
+        "_id": "6643ef279e9ebaa4d8fc604d",
+        "_tpl": "6643ef279e9ebaa4d8fc604d",
         "parentId": "hideout",
         "slotId": "hideout",
         "upd": {
@@ -661,8 +661,8 @@
         }
       },
       {
-        "_id": "STs-130PT2",
-        "_tpl": "STs-130PT2",
+        "_id": "6643eef81ba9a68596e12846",
+        "_tpl": "6643eef81ba9a68596e12846",
         "parentId": "hideout",
         "slotId": "hideout",
         "upd": {
@@ -671,8 +671,8 @@
         }
       },
       {
-        "_id": "SUP",
-        "_tpl": "SUP",
+        "_id": "6643ef4f859db3d8379b5eaf",
+        "_tpl": "6643ef4f859db3d8379b5eaf",
         "parentId": "hideout",
         "slotId": "hideout",
         "upd": {
@@ -681,8 +681,8 @@
         }
       },
       {
-        "_id": "VKS",
-        "_tpl": "VKS",
+        "_id": "6643ef74cba98a5c84b9121c",
+        "_tpl": "6643ef74cba98a5c84b9121c",
         "parentId": "hideout",
         "slotId": "hideout",
         "upd": {
@@ -691,8 +691,8 @@
         }
       },
       {
-        "_id": "VMAG",
-        "_tpl": "VMAG",
+        "_id": "6643efaa05ac5da670fea726",
+        "_tpl": "6643efaa05ac5da670fea726",
         "parentId": "hideout",
         "slotId": "hideout",
         "upd": {
@@ -702,7 +702,7 @@
       }
     ],
     "barter_scheme": {
-      "STs-130": [
+      "6643eec83b2c9104e74c0bef": [
         [
           {
             "count": 455,
@@ -710,7 +710,7 @@
           }
         ]
       ],
-      "STs-130VPS": [
+      "6643ef279e9ebaa4d8fc604d": [
         [
           {
             "count": 956,
@@ -718,7 +718,7 @@
           }
         ]
       ],
-      "STs-130PT2": [
+      "6643eef81ba9a68596e12846": [
         [
           {
             "count": 752,
@@ -726,7 +726,7 @@
           }
         ]
       ],
-      "SUP": [
+      "6643ef4f859db3d8379b5eaf": [
         [
           {
             "count": 21503,
@@ -734,7 +734,7 @@
           }
         ]
       ],
-      "VKS": [
+      "6643ef74cba98a5c84b9121c": [
         [
           {
             "count": 93800,
@@ -742,7 +742,7 @@
           }
         ]
       ],
-      "VMAG": [
+      "6643efaa05ac5da670fea726": [
         [
           {
             "count": 6600,
@@ -752,12 +752,12 @@
       ]
     },
     "loyal_level_items": {
-      "STs-130": 3,
-      "STs-130VPS": 4,
-      "STs-130PT2": 4,
-      "SUP": 3,
-      "VKS": 3,
-      "VMAG": 3
+      "6643eec83b2c9104e74c0bef": 3,
+      "6643ef279e9ebaa4d8fc604d": 4,
+      "6643eef81ba9a68596e12846": 4,
+      "6643ef4f859db3d8379b5eaf": 3,
+      "6643ef74cba98a5c84b9121c": 3,
+      "6643efaa05ac5da670fea726": 3
     }
   }
 }

@@ -1,6 +1,6 @@
 {
-  "_id": "reciever_glock_lone_wolf_alphawolf_45acp",
-  "_name": "reciever_glock_lone_wolf_alphawolf_45acp",
+  "_id": "6643ee79e45ef6d6bdd29ab9",
+  "_name": "6643ee79e45ef6d6bdd29ab9",
   "_price": 11000,
   "_loyal": 2,
   "_parent": "55818a304bdc2db5418b457d",
@@ -16,7 +16,7 @@
     "CantRemoveFromSlotsDuringRaid": [],
     "ConflictingItems": [],
     "CoolFactor": 1.06,
-    "Description": "reciever_glock_lone_wolf_alphawolf_45acp",
+    "Description": "6643ee79e45ef6d6bdd29ab9",
     "DiscardLimit": -1,
     "DiscardingBlock": false,
     "DoubleActionAccuracyPenaltyMult": 1,
@@ -52,7 +52,7 @@
     "LootExperience": 10,
     "Loudness": 0,
     "MergesWithChildren": true,
-    "Name": "reciever_glock_lone_wolf_alphawolf_45acp",
+    "Name": "6643ee79e45ef6d6bdd29ab9",
     "NotShownInSlot": false,
     "Prefab": {
       "path": "assets/content/items/mods/recievers/reciever_glock_lone_wolf_alphawolf.bundle",
@@ -65,14 +65,14 @@
     "Recoil": -1,
     "RepairCost": 0,
     "RepairSpeed": 0,
-    "ShortName": "reciever_glock_lone_wolf_alphawolf_45acp",
+    "ShortName": "6643ee79e45ef6d6bdd29ab9",
     "SightingRange": 0,
     "Slots": [
       {
         "_id": "reciever_glock_lone_wolf_alphawolf_45acp_rear_sight",
         "_mergeSlotWithChildren": false,
         "_name": "mod_sight_rear",
-        "_parent": "reciever_glock_lone_wolf_alphawolf_45acp",
+        "_parent": "6643ee79e45ef6d6bdd29ab9",
         "_props": {
           "filters": [
             {
@@ -94,7 +94,7 @@
         "_id": "reciever_glock_lone_wolf_alphawolf_45acp_front_sight",
         "_mergeSlotWithChildren": false,
         "_name": "mod_sight_front",
-        "_parent": "reciever_glock_lone_wolf_alphawolf_45acp",
+        "_parent": "6643ee79e45ef6d6bdd29ab9",
         "_props": {
           "filters": [
             {

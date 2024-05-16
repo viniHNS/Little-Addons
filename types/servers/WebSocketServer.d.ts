@@ -2,6 +2,7 @@
 import http, { IncomingMessage } from "node:http";
 import WebSocket from "ws";
 import { HttpServerHelper } from "@spt-aki/helpers/HttpServerHelper";
+import { ProfileHelper } from "@spt-aki/helpers/ProfileHelper";
 import { INotification } from "@spt-aki/models/eft/notifier/INotifier";
 import { IHttpConfig } from "@spt-aki/models/spt/config/IHttpConfig";
 import { ILogger } from "@spt-aki/models/spt/utils/ILogger";
@@ -16,11 +17,15 @@ export declare class WebSocketServer {
     protected localisationService: LocalisationService;
     protected jsonUtil: JsonUtil;
     protected httpServerHelper: HttpServerHelper;
-    constructor(logger: ILogger, randomUtil: RandomUtil, configServer: ConfigServer, localisationService: LocalisationService, jsonUtil: JsonUtil, httpServerHelper: HttpServerHelper);
+    protected profileHelper: ProfileHelper;
+    constructor(logger: ILogger, randomUtil: RandomUtil, configServer: ConfigServer, localisationService: LocalisationService, jsonUtil: JsonUtil, httpServerHelper: HttpServerHelper, profileHelper: ProfileHelper);
     protected httpConfig: IHttpConfig;
     protected defaultNotification: INotification;
+    protected webSocketServer: WebSocket.Server;
     protected webSockets: Record<string, WebSocket.WebSocket>;
     protected websocketPingHandler: any;
+    getWebSocketServer(): WebSocket.Server;
+    getSessionWebSocket(sessionID: string): WebSocket.WebSocket;
     setupWebSocket(httpServer: http.Server): void;
     sendMessage(sessionID: string, output: INotification): void;
     protected getRandomisedMessage(): string;

@@ -1,5 +1,5 @@
 {
-  "_id": "MP700",
+  "_id": "6643edda4a05be2737da3134",
   "_name": "weapon_izhmeh_mr43e-1c_12g",
   "_parent": "5447b6194bdc2d67278b4567",
   "_props": {
@@ -34,7 +34,7 @@
           "filters": [
             {
               "Filter": [
-                "700NITRO_FMJ"
+                "6643eb62ef9aaed4947a9836"
               ]
             }
           ]
@@ -51,7 +51,7 @@
           "filters": [
             {
               "Filter": [
-                "700NITRO_FMJ"
+                "6643eb62ef9aaed4947a9836"
               ]
             }
           ]
@@ -170,7 +170,7 @@
           "filters": [
             {
               "Filter": [
-                "barrel_MP700"
+                "6643ec7e9f7598f9f556b493"
               ],
               "Shift": 0
             }
@@ -221,7 +221,7 @@
     "bFirerate": 900,
     "bHearDist": 80,
     "chamberAmmoCount": 1,
-    "defAmmo": "700NITRO_FMJ",
+    "defAmmo": "6643eb62ef9aaed4947a9836",
     "defMagType": "5448bc234bdc2d3c308b4569",
     "durabSpawnMax": 75,
     "durabSpawnMin": 50,
