@@ -16,7 +16,7 @@
     "BaseMalfunctionChance": 0.183425,
     "BoltAction": false,
     "BurstShotsCount": 3,
-    "CameraRecoil": 0.0700,
+    "CameraRecoil": 0.07,
     "CameraSnap": 3.4,
     "CanPutIntoDuringTheRaid": true,
     "CanQueueSecondShot": true,
@@ -121,10 +121,60 @@
       "y": -0.24,
       "z": 0
     },
-    "RecoilForceBack": 428,
-    "RecoilForceUp": 161,
+    "RecoilForceBack": 435,
+    "RecoilForceUp": 180,
     "RecoilPosZMult": 1,
     "RecolDispersion": 15,
+    "RecoilCategoryMultiplierHandRotation": 0.207,
+    "RecoilReturnSpeedHandRotation": 2.5,
+    "RecoilDampingHandRotation": 0.85,
+    "RecoilCamera": 0.065,
+    "RecoilStableIndexShot": 5,
+    "RecoilReturnPathDampingHandRotation": 0.48,
+    "RecoilReturnPathOffsetHandRotation": 0.01,
+    "RecoilStableAngleIncreaseStep": 2.4,
+    "ProgressRecoilAngleOnStable": {
+      "x": 0,
+      "y": 28,
+      "z": 0
+    },
+    "PostRecoilVerticalRangeHandRotation": {
+      "x": -1.5,
+      "y": 0,
+      "z": 0
+    },
+    "PostRecoilHorizontalRangeHandRotation": {
+      "x": -1.5,
+      "y": 1.5,
+      "z": 0
+    },
+    "ShotsGroupSettings": [
+      {
+        "StartShotIndex": 1,
+        "EndShotIndex": 200,
+        "ShotRecoilRotationStrength": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "ShotRecoilPositionStrength": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "ShotRecoilRadianRange": {
+          "x": 6,
+          "y": -6,
+          "z": 0
+        }
+      }
+    ],
+    "CameraToWeaponAngleSpeedRange": {
+      "x": 0.1,
+      "y": 0.2,
+      "z": 0
+    },
+    "CameraToWeaponAngleStep": 0.1,
     "ReloadMode": "ExternalMagazine",
     "RepairComplexity": 0,
     "RepairCost": 166,
@@ -200,9 +250,7 @@
           "filters": [
             {
               "AnimationIndex": -1,
-              "Filter": [
-                "6643ed867ca1c85e01d78c4a"
-              ]
+              "Filter": ["6643ed867ca1c85e01d78c4a"]
             }
           ]
         },
@@ -217,9 +265,7 @@
         "_props": {
           "filters": [
             {
-              "Filter": [
-                "6643edefd1f151dad20e840e"
-              ],
+              "Filter": ["6643edefd1f151dad20e840e"],
               "Shift": 0
             }
           ]
@@ -317,10 +363,7 @@
     "isFastReload": true,
     "shotgunDispersion": 0,
     "weapClass": "assaultRifle",
-    "weapFireType": [
-      "single",
-      "fullauto"
-    ],
+    "weapFireType": ["single", "fullauto"],
     "weapUseType": "primary"
   },
   "_type": "Item"

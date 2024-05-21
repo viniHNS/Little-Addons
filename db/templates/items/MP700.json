@@ -33,9 +33,7 @@
         "_props": {
           "filters": [
             {
-              "Filter": [
-                "6643eb62ef9aaed4947a9836"
-              ]
+              "Filter": ["6643eb62ef9aaed4947a9836"]
             }
           ]
         },
@@ -50,9 +48,7 @@
         "_props": {
           "filters": [
             {
-              "Filter": [
-                "6643eb62ef9aaed4947a9836"
-              ]
+              "Filter": ["6643eb62ef9aaed4947a9836"]
             }
           ]
         },
@@ -136,10 +132,60 @@
       "y": -0.31,
       "z": 0
     },
-    "RecoilForceBack": 765,
-    "RecoilForceUp": 466,
+    "RecoilForceBack": 420,
+    "RecoilForceUp": 300,
     "RecoilPosZMult": 1,
     "RecolDispersion": 30,
+    "RecoilCategoryMultiplierHandRotation": 0.23,
+    "RecoilReturnSpeedHandRotation": 2.2,
+    "RecoilDampingHandRotation": 0.85,
+    "RecoilCamera": 0.08,
+    "RecoilStableIndexShot": 2,
+    "RecoilReturnPathDampingHandRotation": 0.52,
+    "RecoilReturnPathOffsetHandRotation": 0.015,
+    "RecoilStableAngleIncreaseStep": 2.5,
+    "ProgressRecoilAngleOnStable": {
+      "x": 0,
+      "y": 30,
+      "z": 0
+    },
+    "PostRecoilVerticalRangeHandRotation": {
+      "x": -2,
+      "y": 0.1,
+      "z": 0
+    },
+    "PostRecoilHorizontalRangeHandRotation": {
+      "x": -2.5,
+      "y": 2.5,
+      "z": 0
+    },
+    "ShotsGroupSettings": [
+      {
+        "StartShotIndex": 4,
+        "EndShotIndex": 99,
+        "ShotRecoilRotationStrength": {
+          "x": 0,
+          "y": 2,
+          "z": 0
+        },
+        "ShotRecoilPositionStrength": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "ShotRecoilRadianRange": {
+          "x": -20,
+          "y": 20,
+          "z": 0
+        }
+      }
+    ],
+    "CameraToWeaponAngleSpeedRange": {
+      "x": 0.1,
+      "y": 0.2,
+      "z": 0
+    },
+    "CameraToWeaponAngleStep": 0.1,
     "ReloadMode": "OnlyBarrel",
     "RepairComplexity": 0,
     "RepairCost": 100,
@@ -169,9 +215,7 @@
         "_props": {
           "filters": [
             {
-              "Filter": [
-                "6643ec7e9f7598f9f556b493"
-              ],
+              "Filter": ["6643ec7e9f7598f9f556b493"],
               "Shift": 0
             }
           ]
@@ -187,9 +231,7 @@
         "_props": {
           "filters": [
             {
-              "Filter": [
-                "611a31ce5b7ffe001b4649d1"
-              ],
+              "Filter": ["611a31ce5b7ffe001b4649d1"],
               "Shift": 0
             }
           ]
@@ -230,10 +272,7 @@
     "isFastReload": false,
     "shotgunDispersion": 0,
     "weapClass": "marksmanRifle",
-    "weapFireType": [
-      "single",
-      "doublet"
-    ],
+    "weapFireType": ["single", "doublet"],
     "weapUseType": "primary"
   },
   "_type": "Item"

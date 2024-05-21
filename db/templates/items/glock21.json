@@ -118,16 +118,60 @@
     "QuestItem": false,
     "QuestStashMaxCount": 0,
     "RagFairCommissionModifier": 1,
-    "RecoilAngle": 85,
     "RecoilCenter": {
       "x": 0,
       "y": -0.44,
       "z": -0.005
     },
-    "RecoilForceBack": 300,
-    "RecoilForceUp": 450,
-    "RecoilPosZMult": 0.6,
     "RecolDispersion": 13,
+    "RecoilCategoryMultiplierHandRotation": 0.138,
+    "RecoilReturnSpeedHandRotation": 5,
+    "RecoilDampingHandRotation": 0.82,
+    "RecoilCamera": 0.009,
+    "RecoilStableIndexShot": 4,
+    "RecoilForceBack": 305,
+    "RecoilForceUp": 480,
+    "RecoilPosZMult": 1, 
+    "RecoilReturnPathDampingHandRotation": 0.43,
+    "RecoilReturnPathOffsetHandRotation":0.01,
+    "RecoilAngle":85,
+    "RecoilStableAngleIncreaseStep":2.5,
+    "ProgressRecoilAngleOnStable":{
+      "x": 0,
+      "y": 30,
+      "z": 0
+    },
+    "PostRecoilVerticalRangeHandRotation":{
+    "x": -1,
+    "y": 0,
+    "z": 0
+    },
+    "PostRecoilHorizontalRangeHandRotation":{
+    "x": -2,
+    "y": 2,
+    "z": 0
+    },
+    "ShotsGroupSettings":[
+      {
+        "StartShotIndex": 4,
+        "EndShotIndex": 99,
+        "ShotRecoilRotationStrength": {
+          "x": 0,
+          "y": 2,
+          "z": 0
+        },
+        "ShotRecoilPositionStrength": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "ShotRecoilRadianRange": {
+          "x": -20,
+          "y": 20,
+          "z": 0
+        }
+      }
+    ],
     "ReloadMode": "ExternalMagazine",
     "RepairComplexity": 0,
     "RepairCost": 56,
@@ -330,3 +374,6 @@
   "_proto": "glock21_proto",
   "_type": "Item"
 }
+
+
+
