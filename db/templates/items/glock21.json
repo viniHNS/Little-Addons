@@ -130,7 +130,7 @@
     "RecoilCamera": 0.009,
     "RecoilStableIndexShot": 4,
     "RecoilForceBack": 305,
-    "RecoilForceUp": 480,
+    "RecoilForceUp": 500,
     "RecoilPosZMult": 1, 
     "RecoilReturnPathDampingHandRotation": 0.43,
     "RecoilReturnPathOffsetHandRotation":0.01,
