@@ -5,7 +5,7 @@
   "_props": {
     "AmmoLifeTimeSec": 5,
     "AnimationVariantsNumber": 0,
-    "ArmorDamage": 110,
+    "ArmorDamage": 95,
     "ArmorDistanceDistanceDamage": {
       "x": 0,
       "y": 0,
@@ -82,8 +82,8 @@
     "MisfireChance": 0.01,
     "Name": "patron_86x70_lapua_magnum",
     "NotShownInSlot": false,
-    "PenetrationChance": 0.6,
-    "PenetrationPower": 36,
+    "PenetrationChanceObstacle": 0.38,
+    "PenetrationPower": 29,
     "PenetrationPowerDiviation": 1,
     "Prefab": {
       "path": "700NITRO_FMJ.bundle",
