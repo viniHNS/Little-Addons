@@ -1,48 +1,31 @@
 {
-	"5ac3b934156ae10c4430e83c": {
+  "54cb57776803fa99248b456e": {
 		"items": [
       {
-        "_id": "6643ecd08d75026930377700",
-        "_tpl": "6643ecd08d75026930377700",
+        "_id": "670f033f5ab9e1780309db16",
+        "_tpl": "670f033f5ab9e1780309db16",
         "parentId": "hideout",
         "slotId": "hideout",
         "upd": {
           "UnlimitedCount": false,
-          "StackObjectsCount": 999
+          "StackObjectsCount": 6
         }
-      },
-			{
-				"_id": "6643ed2f0a29d69de8322986",
-				"_tpl": "6643ed2f0a29d69de8322986",
-				"parentId": "hideout",
-				"slotId": "hideout",
-				"upd": {
-					"UnlimitedCount": false,
-					"StackObjectsCount": 999
-				}
-			}
+      }
+			
     ],
     "barter_scheme": {
-      "6643ecd08d75026930377700": [
+      "670f033f5ab9e1780309db16": [
         [
           {
-            "count": 3456,
+            "count": 245685,
             "_tpl": "5449016a4bdc2d6f028b456f"
           }
         ]
-      ],
-			"6643ed2f0a29d69de8322986": [
-				[
-					{
-						"count": 22348,
-						"_tpl": "5449016a4bdc2d6f028b456f"
-					}
-				]
-			]
+      ]
+			
     },
     "loyal_level_items": {
-      "6643ecd08d75026930377700": 1,
-			"6643ed2f0a29d69de8322986": 1
+      "670f033f5ab9e1780309db16": 3
     }
 	},
 
@@ -56,16 +39,6 @@
         "upd": {
           "UnlimitedCount": false,
           "StackObjectsCount": 999
-        }
-      },
-      {
-        "_id": "6643ed9bd8da456ea6f394dc",
-        "_tpl": "6643ed9bd8da456ea6f394dc",
-        "parentId": "hideout",
-        "slotId": "hideout",
-        "upd": {
-          "UnlimitedCount": false,
-          "StackObjectsCount": 5234
         }
       },
       {
@@ -99,7 +72,7 @@
         }
       },
       {
-        "_id": "MP700_WEAPON",
+        "_id": "67150a90e2809bdac7054f98",
         "_tpl": "6643edda4a05be2737da3134",
         "parentId": "hideout",
         "slotId": "hideout",
@@ -111,13 +84,13 @@
       {
         "_id": "403b0eb532c6b0ba31212e9d",
         "_tpl": "611a31ce5b7ffe001b4649d1",
-        "parentId": "MP700_WEAPON",
+        "parentId": "67150a90e2809bdac7054f98",
         "slotId": "mod_stock"
       },
       {
         "_id": "493238e79e71fee208159540",
         "_tpl": "6643ec7e9f7598f9f556b493",
-        "parentId": "MP700_WEAPON",
+        "parentId": "67150a90e2809bdac7054f98",
         "slotId": "mod_barrel"
       }
     ],
@@ -127,14 +100,6 @@
         [
           {
             "count": 28956,
-            "_tpl": "5449016a4bdc2d6f028b456f"
-          }
-        ]
-      ],
-      "6643ed9bd8da456ea6f394dc": [
-        [
-          {
-            "count": 12569,
             "_tpl": "5449016a4bdc2d6f028b456f"
           }
         ]
@@ -163,7 +128,7 @@
           }
         ]
       ],
-      "MP700_WEAPON": [
+      "67150a90e2809bdac7054f98": [
         [
           {
             "count": 403152,
@@ -177,8 +142,7 @@
       "6643eb62ef9aaed4947a9836": 4,
       "6643edda4a05be2737da3134": 4,
       "6643ec7e9f7598f9f556b493": 4,
-      "MP700_WEAPON": 4,
-      "6643ed9bd8da456ea6f394dc": 2
+      "67150a90e2809bdac7054f98": 4
     }
   },
   "5a7c2eca46aef81a7ca2145d": {

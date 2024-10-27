@@ -1,19 +1,29 @@
 import { DependencyContainer } from "tsyringe";
-import { IPostDBLoadMod } from "@spt-aki/models/external/IPostDBLoadMod";
-import { ILogger } from "@spt-aki/models/spt/utils/ILogger";
-import { JsonUtil } from "@spt-aki/utils/JsonUtil";
-import { VFS } from "@spt-aki/utils/VFS";
-import { DatabaseServer } from "@spt-aki/servers/DatabaseServer";
-import { ImporterUtil } from "@spt-aki/utils/ImporterUtil";
+import { IPostDBLoadMod } from "@spt/models/external/IPostDBLoadMod";
+import { DatabaseServer } from "@spt/servers/DatabaseServer";
+import { IPreSptLoadMod } from "@spt/models/external/IpreSptLoadMod";
+import { ILogger } from "@spt/models/spt/utils/ILogger";
+import { LogTextColor } from "@spt/models/spt/logging/LogTextColor";
+import { JsonUtil } from "@spt/utils/JsonUtil";
+import { VFS } from "@spt/utils/VFS";
+import { ImporterUtil } from "@spt/utils/ImporterUtil";
 import path from "path";
+import XT12 from "../db/buffs/Buffs_XT12.json";
 
-class Mod implements IPostDBLoadMod
+
+class Mod implements IPostDBLoadMod, IPreSptLoadMod
 {
-    // Code added here will load BEFORE the server has started loading
+    
+    preSptLoad(container: DependencyContainer): void 
+    {
+        // get the logger from the server container
+        const logger = container.resolve<ILogger>("WinstonLogger");
+        logger.logWithColor("[ViniHNS] Adding little things!", LogTextColor.GREEN);
+    }
+
     // Thanks TRON <3
     postDBLoad(container: DependencyContainer): void 
     {
-        const logger = container.resolve<ILogger>("WinstonLogger");
         const db = container.resolve<DatabaseServer>("DatabaseServer").getTables();
         const ImporterUtil = container.resolve<ImporterUtil>("ImporterUtil");
         const JsonUtil = container.resolve<JsonUtil>("JsonUtil");
@@ -25,15 +35,20 @@ class Mod implements IPostDBLoadMod
 
         const mydb = ImporterUtil.loadRecursive(`${modPath}../db/`);
 
+        const buffs = db.globals.config.Health.Effects.Stimulator.Buffs
+
         const itemPath = `${modPath}../db/templates/items/`;
         const handbookPath = `${modPath}../db/templates/handbook/`;
 
         db.templates.items["55d7217a4bdc2d86028b456d"]._props.Slots[5]._props.filters[0].Filter.push("helmet");
+        
+        //Add XT12 Stim
+        buffs["670f033f5ab9e1780309db16"] = XT12;
+        //Add the XT12 to the Injectors case
+        db.templates.items["619cbf7d23893217ec30b689"]._props.Grids[0]._props.filters[0].Filter.push("670f033f5ab9e1780309db16");
 
-        //Add custom mount to SVT40 
-        db.templates.items["643ea5b23db6f9f57107d9fd"]._props.Slots[4]._props.filters[0].Filter.push("mount_SVT40_custom");
-
-        for(const itemFile in mydb.templates.items) {
+        for (const itemFile in mydb.templates.items) 
+        {
             const item = JsonUtil.deserialize(VFS.readFile(`${itemPath}${itemFile}.json`));
             const hb = JsonUtil.deserialize(VFS.readFile(`${handbookPath}${itemFile}.json`));
 

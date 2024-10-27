@@ -64,7 +64,7 @@
     "QuestStashMaxCount": 0,
     "RagFairCommissionModifier": 1,
     "RaidModdable": true,
-    "Recoil": -14,
+    "Recoil": -11,
     "RepairCost": 0,
     "RepairSpeed": 0,
     "ShortName": "725мм МР-43е-1с 12к",
@@ -83,7 +83,7 @@
       "rcid": ""
     },
     "Velocity": 17,
-    "Weight": 17,
+    "Weight": 8.6,
     "Width": 5
   },
   "_proto": "55d447bb4bdc2d892f8b456f",

@@ -29,7 +29,7 @@
         "_id": "56eaa954d2720b7c698b4571",
         "_mergeSlotWithChildren": false,
         "_name": "patron_in_weapon_000",
-        "_parent": "5580223e4bdc2d1c128b457f",
+        "_parent": "6643edda4a05be2737da3134",
         "_props": {
           "filters": [
             {
@@ -44,7 +44,7 @@
         "_id": "56eaa95ed2720b69698b456e",
         "_mergeSlotWithChildren": false,
         "_name": "patron_in_weapon_001",
-        "_parent": "5580223e4bdc2d1c128b457f",
+        "_parent": "6643edda4a05be2737da3134",
         "_props": {
           "filters": [
             {
@@ -211,7 +211,7 @@
         "_id": "55d5a27c4bdc2d8c2f8b456f",
         "_mergeSlotWithChildren": false,
         "_name": "mod_barrel",
-        "_parent": "5580223e4bdc2d1c128b457f",
+        "_parent": "6643edda4a05be2737da3134",
         "_props": {
           "filters": [
             {
@@ -227,7 +227,7 @@
         "_id": "611a35095b7ffe001b4649d3",
         "_mergeSlotWithChildren": false,
         "_name": "mod_stock",
-        "_parent": "5580223e4bdc2d1c128b457f",
+        "_parent": "6643edda4a05be2737da3134",
         "_props": {
           "filters": [
             {
@@ -256,7 +256,7 @@
       "rcid": ""
     },
     "Velocity": 0,
-    "Weight": 5.3,
+    "Weight": 2.5,
     "Width": 2,
     "ammoCaliber": "Caliber17.8×89",
     "bEffDist": 100,

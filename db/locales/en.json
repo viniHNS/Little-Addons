@@ -5,16 +5,6 @@
       "ShortName": "Bucket",
       "Description": "This helmet is so rusty, it's practically a colander. But don't worry, it's still perfectly good at stopping bullets. Well, most bullets. At least some of the time. Forged from the finest 10mm thick steel by an unknown scav"
     },
-    "6643ecd08d75026930377700": {
-      "Name": "Cardboard Helmet",
-      "ShortName": "Cardboard Helmet",
-      "Description": "This trusty, but definitely not certified, cardboard helmet offers about as much protection as a wet napkin against a bullet. However, it's surprisingly stylish and sure to turn heads (and maybe get you shot). Perfect for the budget-conscious PMC. Disclaimer: This helmet does not guarantee your survival against any form of weaponry. Use at your own risk (and amusement)."
-    },
-    "6643ed2f0a29d69de8322986": {
-      "Name": "Stahlhelm M42 helmet",
-      "ShortName": "M42 Helmet",
-      "Description": "This authentic Stahlhelm M42 helmet offers vintage protection with modern-day coolness. Originally used by the Wehrmacht, this helmet is now a favorite among collectors and historical reenactors."
-    },
     "6643ed580ce419e213af4bb6": {
       "Name": "Glock 21 .45ACP pistol",
       "ShortName": "Glock 21",
@@ -175,11 +165,12 @@
       "ShortName": "AR-15 Vltor MUR-1S .50 beowulf upper receiver",
       "Description": "The MUR-1S modular upper receiver for AR-based weapons, manufactured by Vltor. Fitted with mounts for attaching additional equipment."
     },
-    "6643ed9bd8da456ea6f394dc": {
-      "Name": "SVT-40 Tokarev Custom mount",
-      "ShortName": "SVT-40 Tokarev Custom mount",
-      "Description": "Custom SVT-40 7.62x54R mount made by Kiba Arms."
-    }
+    "670f033f5ab9e1780309db16": {
+      "Name": "XT-15 \"Juggernaut\"",
+      "ShortName": "XT-15",
+      "Description": "The XT-15 \"Juggernaut\" is an ultra-experimental military stimulant developed in secret by TerraGroup as part of their cutting-edge bioenhancement projects. Designed to push human endurance and recovery to their absolute limits, the XT-15 provides extraordinary boosts in physical strength and rapid healing capabilities, making it invaluable in high-stakes combat scenarios. However, its potent effects come at a severe cost, with unpredictable side effects that can leave the user debilitated after the stimulant wears off. \n\nNote: The XT-15 is still in an experimental phase, and due to its extreme physiological toll, it is recommended only for emergency battlefield use."
+  }
+    
     
   }
     
