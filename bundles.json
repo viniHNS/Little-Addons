@@ -10,31 +10,7 @@
             ]
         },
         {
-            "key": "cardboardhelmet.bundle",
-            "dependencyKeys": [
-                "cubemaps",
-				"shaders",
-				"assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "germanhelmet.bundle",
-            "dependencyKeys": [
-                "cubemaps",
-				"shaders",
-				"assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
             "key": "STs-130.bundle",
-            "dependencyKeys": [
-                "cubemaps",
-				"shaders",
-				"assets/commonassets/physics/physicsmaterials.bundle"
-            ]
-        },
-        {
-            "key": "mount_SVT40_custom.bundle",
             "dependencyKeys": [
                 "cubemaps",
 				"shaders",
